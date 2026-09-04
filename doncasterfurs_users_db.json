@@ -1,0 +1,2744 @@
+[
+ {
+  "ID": 5,
+  "UserUUID": "122bc949-7c7d-4f94-8369-65e790ae8381",
+  "DisplayName": "Miles",
+  "Handle": "mattmiles95",
+  "CreatedAt": "2026-05-09T14:41:05.649889Z",
+  "UpdatedAt": "2026-05-09T14:51:25.779387Z",
+  "Email": "mattmiles95",
+  "FirstName": "Matthew",
+  "LastName": "Davey",
+  "Additional": {
+   "Email": "mattmiles95",
+   "FirstName": "Matthew",
+   "LastName": "Davey"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "doncasterfurs@gmail.com",
+    "Email": "doncasterfurs@gmail.com",
+    "Data": {}
+   },
+   {
+    "Source": "telegram",
+    "Login": "864065331",
+    "Email": "mattmiles95",
+    "Data": {
+     "auth_date": 1784472100,
+     "first_name": "Miles",
+     "hash": "0a8f65bade180ddc0f0a2aafa7fa9409428c8d9b530529da3df2285fd654a9bf",
+     "id": 864065331,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/wIPEAs2tvWCbHynJy3WO1SYp69oUOdFt1WgZnlboP3Y.jpg",
+     "username": "mattmiles95"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 6,
+  "UserUUID": "23734375-4475-41f1-afdc-d080e42b7904",
+  "DisplayName": "Jasper/ Felix Fox 🦊 dm's open.",
+  "Handle": "FloofyFluffyFox",
+  "CreatedAt": "2026-05-09T17:01:16.979267Z",
+  "UpdatedAt": "2026-05-09T17:01:16.98388Z",
+  "Email": "FloofyFluffyFox",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "FloofyFluffyFox"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "961550861",
+    "Email": "floofyfluffyfox",
+    "Data": {
+     "auth_date": 1779469738,
+     "first_name": "Jasper/ Felix Fox 🦊 dm's open.",
+     "hash": "e7f85c51768a991f7700c6335baa337187802dc52b463ff3a7d6dc0ce814ee55",
+     "id": 961550861,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/RBMZLyKHHYaal-KJdLpscdxxpEt1uD4DRd0p2NBkbBw.jpg",
+     "username": "FloofyFluffyFox"
+    }
+   },
+   {
+    "Source": "internal",
+    "Login": "jasperthefox198@gmail.com",
+    "Email": "jasperthefox198@gmail.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 7,
+  "UserUUID": "7e97f94e-8211-4437-9bbc-87c449c8900b",
+  "DisplayName": "Crazed Goat",
+  "Handle": "Crazed_goat",
+  "CreatedAt": "2026-05-09T17:02:59.642792Z",
+  "UpdatedAt": "2026-05-09T17:03:14.185247Z",
+  "Email": "Crazed_goat",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "Crazed_goat"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "8423457183",
+    "Email": "crazed_goat",
+    "Data": {
+     "auth_date": 1784977565,
+     "first_name": "Crazed Goat",
+     "hash": "c3023268dda9220524d797a87b4257b968a3b23f2c0dbfd2005905e4ba7660ff",
+     "id": 8423457183,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/1TGrt9TnQsHmbSL48PA1-B9wMc7qyavFtO-_oD6bEEcc98HvuT2SVugyZKCWk45I.jpg",
+     "username": "Crazed_goat"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 8,
+  "UserUUID": "b9596b6f-6e69-4dce-883d-cd55e5221fa7",
+  "DisplayName": "VI the Hellhound",
+  "Handle": "SixTheHellhound",
+  "CreatedAt": "2026-05-09T17:03:20.629492Z",
+  "UpdatedAt": "2026-05-09T17:04:00.688594Z",
+  "Email": "SixTheHellhound",
+  "FirstName": "Alexander",
+  "LastName": "Davies",
+  "Additional": {
+   "Email": "SixTheHellhound",
+   "FirstName": "Alexander",
+   "LastName": "Davies"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "7743818106",
+    "Email": "sixthehellhound",
+    "Data": {
+     "auth_date": 1780087504,
+     "first_name": "VI | Spectre 🔜 Download XXIII, CE",
+     "hash": "512f2744d8caabcfcc863114f9ef4847e9f846a15b0907c07f2412735bb23125",
+     "id": 7743818106,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/EZyW8T3OvF15RYOfvhnnJCAuZECGpikrZw6JBmlOToRpU7yr-QJvTkhVu-0-OJNT.jpg",
+     "username": "SixTheHellhound"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 9,
+  "UserUUID": "0dc42f99-958a-478d-a5b1-38b606c335aa",
+  "DisplayName": "Cuddles Raccoon",
+  "Handle": "Babyraccoontelegram",
+  "CreatedAt": "2026-05-09T17:03:39.546322Z",
+  "UpdatedAt": "2026-05-09T17:03:39.5499Z",
+  "Email": "Babyraccoontelegram",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "Babyraccoontelegram"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "5066896773",
+    "Email": "babyraccoontelegram",
+    "Data": {
+     "auth_date": 1784934598,
+     "first_name": "Cuddles",
+     "hash": "ad7a7d4d06306544e3de85acab28ca4c48837d399c1e22146509feb755380a07",
+     "id": 5066896773,
+     "last_name": "Raccoon",
+     "photo_url": "https://t.me/i/userpic/320/OvxcG3wp0Uj4ZDbJq5SWfmpx5XAH9n3iRWx387Y_kAHklmFQPuxi_1HKBuU04qWP.jpg",
+     "username": "Babyraccoontelegram"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 10,
+  "UserUUID": "c153e773-d72f-4adc-81ac-7e0d1ed17b24",
+  "DisplayName": "Ember The Fox",
+  "Handle": "User_c153e773-d72f-4adc-81ac-7e0d1ed17b24",
+  "CreatedAt": "2026-05-09T17:06:45.734831Z",
+  "UpdatedAt": "2026-05-09T17:07:27.960799Z",
+  "Email": "Jwdunsire@gmail.com",
+  "FirstName": "Joshua",
+  "LastName": "Dunsire",
+  "Additional": {
+   "Email": "Jwdunsire@gmail.com",
+   "FirstName": "Joshua",
+   "LastName": "Dunsire"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "jwdunsire@gmail.com",
+    "Email": "jwdunsire@gmail.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 11,
+  "UserUUID": "837752a6-6065-4d05-91c3-23f1163863df",
+  "DisplayName": "Damien",
+  "Handle": "KaijuMaws",
+  "CreatedAt": "2026-05-09T17:10:54.018763Z",
+  "UpdatedAt": "2026-05-09T17:10:54.021958Z",
+  "Email": "KaijuMaws",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "KaijuMaws"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "6747063569",
+    "Email": "kaijumaws",
+    "Data": {
+     "auth_date": 1784543862,
+     "first_name": "Damien 🎨 Team Mystery",
+     "hash": "76fd34f48a76701bf869e148a25832bed02969acd4a735d2d5f3013ef21b95c2",
+     "id": 6747063569,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/VKjnh51iYMjfYN1sEupkEQj9o-IW9ortFux76-8x6jb-RlZezNpKlH-DS1CVzSR8.jpg",
+     "username": "KaijuMaws"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 12,
+  "UserUUID": "cb22781c-258f-4836-8cd1-e21072d5991a",
+  "DisplayName": "Kas",
+  "Handle": "User_cb22781c-258f-4836-8cd1-e21072d5991a",
+  "CreatedAt": "2026-05-09T17:17:38.181428Z",
+  "UpdatedAt": "2026-05-09T17:17:55.783754Z",
+  "Email": "kas.uwu.com@gmail.com",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "kas.uwu.com@gmail.com"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "kas.uwu.com@gmail.com",
+    "Email": "kas.uwu.com@gmail.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 13,
+  "UserUUID": "56ca5bba-dead-4235-8498-dcfff54748dc",
+  "DisplayName": "Smog Wolf",
+  "Handle": "User_56ca5bba-dead-4235-8498-dcfff54748dc",
+  "CreatedAt": "2026-05-09T17:28:20.524059Z",
+  "UpdatedAt": "2026-05-09T17:30:56.964805Z",
+  "Email": "Smog.the.wolf@gmail.com",
+  "FirstName": "Paul",
+  "LastName": "McDermott",
+  "Additional": {
+   "Email": "Smog.the.wolf@gmail.com",
+   "FirstName": "Paul",
+   "LastName": "McDermott"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "smog.the.wolf@gmail.com",
+    "Email": "smog.the.wolf@gmail.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 14,
+  "UserUUID": "5278061a-8a17-46e8-9b30-fb9c187c67c5",
+  "DisplayName": "Sylvek",
+  "Handle": "SylvekOwl",
+  "CreatedAt": "2026-05-09T17:32:01.538556Z",
+  "UpdatedAt": "2026-05-09T17:32:01.552075Z",
+  "Email": "SylvekOwl",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "SylvekOwl"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "8211516025",
+    "Email": "sylvekowl",
+    "Data": {
+     "auth_date": 1780846176,
+     "first_name": "Sylvek 🔜 Cabin Con",
+     "hash": "0d8e4b724992efade5c635ef9aacc858a10b3571aaf0fc60f7e900e2fe8eb3cc",
+     "id": 8211516025,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/i4s8YPhMVSuJkb6zrScB8YN7IVS4To-HRiIDUWq4xhq9AIpwuDLui3cPS04F3LDr.jpg",
+     "username": "SylvekOwl"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 15,
+  "UserUUID": "69b38728-263c-420e-9b24-9d8761554d6a",
+  "DisplayName": "Liko ( & Grims Bunny )",
+  "Handle": "LikoLiiko",
+  "CreatedAt": "2026-05-09T17:35:19.574512Z",
+  "UpdatedAt": "2026-05-09T17:35:55.048026Z",
+  "Email": "LikoLiiko",
+  "FirstName": "Liko",
+  "LastName": "Kitsune",
+  "Additional": {
+   "Email": "LikoLiiko",
+   "FirstName": "Liko",
+   "LastName": "Kitsune"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "7820520488",
+    "Email": "likoliiko",
+    "Data": {
+     "auth_date": 1784916307,
+     "first_name": "Liko",
+     "hash": "0346715fa522988d9dc33d9f1095a402b5ea978d3c6f5391518ca102b9774e2c",
+     "id": 7820520488,
+     "last_name": "( & Phoebe )",
+     "photo_url": "https://t.me/i/userpic/320/DwNat04AaSuX7Azq42eUYkx0Yun14a62IGgyjyYSUNA5zGm-Oj0-yAERbC1LrkvF.jpg",
+     "username": "LikoLiiko"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 16,
+  "UserUUID": "6c6dd660-7779-455b-91f0-4ca02c367bba",
+  "DisplayName": "Michael Jarvis 🇬🇧🏳️‍🌈NFC",
+  "Handle": "confusedsiren56",
+  "CreatedAt": "2026-05-09T18:19:42.078018Z",
+  "UpdatedAt": "2026-05-09T18:20:11.240473Z",
+  "Email": "confusedsiren56",
+  "FirstName": "Michael",
+  "LastName": "Jarvis",
+  "Additional": {
+   "Email": "confusedsiren56",
+   "FirstName": "Michael",
+   "LastName": "Jarvis"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "6788372325",
+    "Email": "confusedsiren56",
+    "Data": {
+     "auth_date": 1780511183,
+     "first_name": "Michael",
+     "hash": "34f1bf0df169ca716c3de2cf9ba49bd37f1b4dcd3084e2e82950a7a0ac9422f2",
+     "id": 6788372325,
+     "last_name": "Jarvis 🇬🇧🏳️‍🌈 -> NFC2027",
+     "photo_url": "https://t.me/i/userpic/320/3MgtMZau9Fl6nfcpyyx4gWg05bd9PCdiKalYP1XvkIA5RMszvUImY4rS8EAk28qH.jpg",
+     "username": "confusedsiren56"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 17,
+  "UserUUID": "1dcf45a6-c1cc-442b-9cd9-abb9232cb889",
+  "DisplayName": "Lucien",
+  "Handle": "LucienTonare",
+  "CreatedAt": "2026-05-09T18:20:26.234113Z",
+  "UpdatedAt": "2026-05-09T18:20:42.992098Z",
+  "Email": "LucienTonare",
+  "FirstName": "Wade",
+  "LastName": "Womersley",
+  "Additional": {
+   "Email": "LucienTonare",
+   "FirstName": "Wade",
+   "LastName": "Womersley"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "6987315734",
+    "Email": "lucientonare",
+    "Data": {
+     "auth_date": 1778413037,
+     "first_name": "Lucien",
+     "hash": "e42808d64d1d3361ed9897de462488a9950d90fc89e607cf9a413f162d3207a0",
+     "id": 6987315734,
+     "last_name": "➡️ Cfz, EF",
+     "photo_url": "https://t.me/i/userpic/320/9BB2J2q_mor1zMGToNOW2miMLvOOFjqhJiyk1GX-9d8t16tW8lzfdU8Zi69KqJyc.jpg",
+     "username": "LucienTonare"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 19,
+  "UserUUID": "cf3ec934-fa81-4411-8d4c-534ae9e613a6",
+  "DisplayName": "Izzy ✨",
+  "Handle": "LightningStrikeFurs",
+  "CreatedAt": "2026-05-10T13:48:56.093301Z",
+  "UpdatedAt": "2026-05-10T13:49:13.097977Z",
+  "Email": "LightningStrikeFurs",
+  "FirstName": "Isabelle ",
+  "LastName": "Sach",
+  "Additional": {
+   "Email": "LightningStrikeFurs",
+   "FirstName": "Isabelle ",
+   "LastName": "Sach"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "5765192421",
+    "Email": "lightningstrikefurs",
+    "Data": {
+     "auth_date": 1778420924,
+     "first_name": "Izzy ✨",
+     "hash": "3b60b458ba4bd27ba3d219c718d7062b171f03bb6cb977d255b8897632259b06",
+     "id": 5765192421,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/NOyYxac2AL8ZAVClDmMCNi0iShNcyKF9woKfhI60UQFKzkcU7I6C9KsVjgNxxDOj.jpg",
+     "username": "LightningStrikeFurs"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 20,
+  "UserUUID": "19598438-cc53-4e94-a971-27cb12c9898c",
+  "DisplayName": "Scaramouche🔜CFz’26! #3488 🐉 Comms closed til Xmas 🎨🖌️🖼️",
+  "Handle": "scaramouchefragon",
+  "CreatedAt": "2026-05-10T14:59:54.217433Z",
+  "UpdatedAt": "2026-05-10T15:00:31.938797Z",
+  "Email": "scaramouchefragon",
+  "FirstName": "Matt",
+  "LastName": "Brooks",
+  "Additional": {
+   "Email": "scaramouchefragon",
+   "FirstName": "Matt",
+   "LastName": "Brooks"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "hew42.r.brooks@gmail.com",
+    "Email": "hew42.r.brooks@gmail.com",
+    "Data": {}
+   },
+   {
+    "Source": "telegram",
+    "Login": "201151213",
+    "Email": "scaramouchefragon",
+    "Data": {
+     "auth_date": 1784980626,
+     "first_name": "Scaramouche 🔜 STEAMPUNK ASYLUM ‘26! #3488",
+     "hash": "d284c34bd94962730f45fde5864bf78062abace9f826004f93efff60ec29a110",
+     "id": 201151213,
+     "last_name": "🐉 Comms closed for now. Sorry :( 🎨🖌️🖼️",
+     "photo_url": "https://t.me/i/userpic/320/5CBGbiLfvOPHcMXTuHJhoI7o16e5SH4Bu_-9L__7Lzs.jpg",
+     "username": "scaramouchefragon"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 22,
+  "UserUUID": "5371444e-a80f-44b1-9c17-146db1ba01e8",
+  "DisplayName": "Floss Bunny",
+  "Handle": "Lilith_bunny",
+  "CreatedAt": "2026-05-11T18:25:22.803329Z",
+  "UpdatedAt": "2026-05-11T18:26:37.169963Z",
+  "Email": "Lilith_bunny",
+  "FirstName": "Ellie",
+  "LastName": "Callaghan",
+  "Additional": {
+   "Email": "Lilith_bunny",
+   "FirstName": "Ellie",
+   "LastName": "Callaghan"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "5923943912",
+    "Email": "lilith_bunny",
+    "Data": {
+     "auth_date": 1781986879,
+     "first_name": "💖 Floss Bunny 🔜 doggy weekend 💖",
+     "hash": "1f271c6ef307e8a4587791569548440a8466d10509eb441c983f473b4829dfb8",
+     "id": 5923943912,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/OzZMdH5YVWApxCgdIpsfZmDNXAQ1OLbRUdeegS8i9t8c9vBjcjhA44yYfG1GJz29.jpg",
+     "username": "Lilith_bunny"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 23,
+  "UserUUID": "d5718826-69f3-4dee-b49b-7a2797d23361",
+  "DisplayName": "Midnight",
+  "Handle": "Midnightfox45986",
+  "CreatedAt": "2026-05-11T18:32:11.06992Z",
+  "UpdatedAt": "2026-05-11T18:32:43.229648Z",
+  "Email": "Midnightfox45986",
+  "FirstName": "Conner",
+  "LastName": "Harrison",
+  "Additional": {
+   "Email": "Midnightfox45986",
+   "FirstName": "Conner",
+   "LastName": "Harrison"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "1762646531",
+    "Email": "midnightfox45986",
+    "Data": {
+     "auth_date": 1780579342,
+     "first_name": "Midnight",
+     "hash": "e0523b72e44a0ea375514a971b133b9fb859552b63a46cd437e75fdb3706535b",
+     "id": 1762646531,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/TGOn5Hmpu76jRP1sDjYtGNYN6LCLuVv-2NO32GTzxZw.jpg",
+     "username": "Midnightfox45986"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 24,
+  "UserUUID": "67692728-9975-494b-b760-4e3660c1a99e",
+  "DisplayName": "calypso 🌺",
+  "Handle": "calypso_vixen",
+  "CreatedAt": "2026-05-13T11:46:50.586708Z",
+  "UpdatedAt": "2026-05-13T11:47:08.853567Z",
+  "Email": "calypso_vixen",
+  "FirstName": "Ebony",
+  "LastName": "Taylor",
+  "Additional": {
+   "Email": "calypso_vixen",
+   "FirstName": "Ebony",
+   "LastName": "Taylor"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "6434273482",
+    "Email": "calypso_vixen",
+    "Data": {
+     "auth_date": 1778672803,
+     "first_name": "calypso 🌺",
+     "hash": "a936e2af45bdbd004bbd1d64dfffc1a7788f8cf4efac1231eda91c20f7f9b768",
+     "id": 6434273482,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/k_E7A2PrEw4N7GabVXLO-UTvTj9UewWWyV_O_-tVuufP_1T6zRNpW6kgGIUXkiPR.jpg",
+     "username": "calypso_vixen"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 25,
+  "UserUUID": "e5b26c0b-7566-4021-9fce-cddcbdf40031",
+  "DisplayName": "Stenzy",
+  "Handle": "RexAwoo",
+  "CreatedAt": "2026-05-13T12:32:29.740619Z",
+  "UpdatedAt": "2026-05-13T12:33:45.4015Z",
+  "Email": "RexAwoo",
+  "FirstName": "Erin",
+  "LastName": "Stenson",
+  "Additional": {
+   "Email": "RexAwoo",
+   "FirstName": "Erin",
+   "LastName": "Stenson"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "5691916287",
+    "Email": "rexawoo",
+    "Data": {
+     "auth_date": 1784979958,
+     "first_name": "《💥Stenzy💥》",
+     "hash": "4d0dc68e14a6bedb7883f8c3edb009d272cd24504e85c4f7c6996ea3efd2cc42",
+     "id": 5691916287,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/jbQPZ5R2x_DVBMivLS_7FqpUO1H9q48qL8X0bCAnCyiaKx9LoehFEpsh2P7_a4fR.jpg",
+     "username": "RexAwoo"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 26,
+  "UserUUID": "66f2dff3-ecfb-42f6-822a-ab5af43cdc75",
+  "DisplayName": "Fuze Folf ",
+  "Handle": "Fuzefolf",
+  "CreatedAt": "2026-05-13T12:42:07.372993Z",
+  "UpdatedAt": "2026-05-13T12:42:43.884159Z",
+  "Email": "Fuzefolf",
+  "FirstName": "Jake",
+  "LastName": "Daykin",
+  "Additional": {
+   "Email": "Fuzefolf",
+   "FirstName": "Jake",
+   "LastName": "Daykin"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "5854517093",
+    "Email": "fuzefolf",
+    "Data": {
+     "auth_date": 1784979949,
+     "first_name": "Fuze",
+     "hash": "1f9ecaa82a5345a7aaf551f4382db0a277fe6640c9352614262700c32f33bd0c",
+     "id": 5854517093,
+     "last_name": "Folf",
+     "photo_url": "https://t.me/i/userpic/320/xZMTRNvygSUTi26GDHnYpb22vAaFN55GKzbWo8tiYBm83fp1Dr6AyZF5gowPyLau.jpg",
+     "username": "Fuzefolf"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 27,
+  "UserUUID": "e61303df-f802-46c0-86ba-21e6c6a8350e",
+  "DisplayName": "Night howl",
+  "Handle": "nighthowl12",
+  "CreatedAt": "2026-05-13T15:24:25.998645Z",
+  "UpdatedAt": "2026-05-13T15:26:57.011979Z",
+  "Email": "nighthowl12",
+  "FirstName": "Tyler",
+  "LastName": "Durcan",
+  "Additional": {
+   "Email": "nighthowl12",
+   "FirstName": "Tyler",
+   "LastName": "Durcan"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "961080246",
+    "Email": "nighthowl12",
+    "Data": {
+     "auth_date": 1778685859,
+     "first_name": "Night howl",
+     "hash": "97b813ecbb72ed4e4b674df36849bfd2a218a8dcc6c631de400a01f57b7c4626",
+     "id": 961080246,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/n027mBhIlz3ALg6qSRLc97b4B9MTZilbUHsO1-PRyUE.jpg",
+     "username": "nighthowl12"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 28,
+  "UserUUID": "28bc275d-ff9c-44ae-88d4-c8e6acaecd60",
+  "DisplayName": "Azakir Devaris",
+  "Handle": "User_28bc275d-ff9c-44ae-88d4-c8e6acaecd60",
+  "CreatedAt": "2026-05-13T21:18:39.511871Z",
+  "UpdatedAt": "2026-05-13T21:19:28.329513Z",
+  "Email": "azakirdevaris@gmail.com",
+  "FirstName": "Azakir",
+  "LastName": "Devaris",
+  "Additional": {
+   "Email": "azakirdevaris@gmail.com",
+   "FirstName": "Azakir",
+   "LastName": "Devaris"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "azakirdevaris@gmail.com",
+    "Email": "azakirdevaris@gmail.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 29,
+  "UserUUID": "609fc972-dd96-4b99-98a7-4f1819435c7d",
+  "DisplayName": "Doran",
+  "Handle": "User_609fc972-dd96-4b99-98a7-4f1819435c7d",
+  "CreatedAt": "2026-05-16T18:22:10.88146Z",
+  "UpdatedAt": "2026-05-16T18:23:10.609665Z",
+  "Email": "dgrafius@gmail.com",
+  "FirstName": "Doran",
+  "LastName": "Eirok",
+  "Additional": {
+   "Email": "dgrafius@gmail.com",
+   "FirstName": "Doran",
+   "LastName": "Eirok"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "dgrafius@gmail.com",
+    "Email": "dgrafius@gmail.com",
+    "Data": {}
+   },
+   {
+    "Source": "telegram",
+    "Login": "193312551",
+    "Email": "doran_eirok",
+    "Data": {
+     "auth_date": 1778957473,
+     "first_name": "Doran",
+     "hash": "6a741cf80657b6b45bae0d9509ecb9f06c1e6d9bf1b5e28dcd845733b4ebabfc",
+     "id": 193312551,
+     "last_name": "Eirok 🫐🐾",
+     "photo_url": "https://t.me/i/userpic/320/NnILCRspYy6Eth_lmOycRhX9hWRdEqiOvsdYrMBw2-A.jpg",
+     "username": "Doran_Eirok"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 30,
+  "UserUUID": "cedccb4a-135b-4ec8-ac13-7b761690ae53",
+  "DisplayName": "Buckybirbroo",
+  "Handle": "User_cedccb4a-135b-4ec8-ac13-7b761690ae53",
+  "CreatedAt": "2026-05-16T18:49:38.218948Z",
+  "UpdatedAt": "2026-05-16T18:59:10.432572Z",
+  "Email": "sunlight.d@outlook.com",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "sunlight.d@outlook.com"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "sunlight.d@outlook.com",
+    "Email": "sunlight.d@outlook.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 31,
+  "UserUUID": "c9a936dc-0923-4247-9819-14c3b7067940",
+  "DisplayName": "Zinnia",
+  "Handle": "User_c9a936dc-0923-4247-9819-14c3b7067940",
+  "CreatedAt": "2026-05-16T19:38:49.77137Z",
+  "UpdatedAt": "2026-05-16T19:39:04.394792Z",
+  "Email": null,
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": ""
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "8781387254",
+    "Email": "",
+    "Data": {
+     "auth_date": 1778960322,
+     "first_name": "Zinnia",
+     "hash": "a16b2a3f65cde4d1e2e3a5e81c15b20732bbb73cae8be8c1b46d479448f0e33b",
+     "id": 8781387254,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/cSdywwjwC7qzH2zfY90qDDAU8wzW_kPsq41VOKOiJ4WvGzpU0nbspib2aqckPHzg.jpg",
+     "username": null
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 32,
+  "UserUUID": "c9db3e2d-e5a7-432b-a97a-c1985fbf5190",
+  "DisplayName": "Dutch The Bat CFZ 1200",
+  "Handle": "Pixelbat",
+  "CreatedAt": "2026-05-17T11:17:44.796967Z",
+  "UpdatedAt": "2026-05-17T11:19:12.684848Z",
+  "Email": "Pixelbat",
+  "FirstName": "Jack",
+  "LastName": "large",
+  "Additional": {
+   "Email": "Pixelbat",
+   "FirstName": "Jack",
+   "LastName": "large"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "1134225326",
+    "Email": "pixelbat",
+    "Data": {
+     "auth_date": 1779016659,
+     "first_name": "Dutch",
+     "hash": "33ed6e5ebd8385937bc4ed8388e04bfc19822e8e1f131c538c078d7dac88955f",
+     "id": 1134225326,
+     "last_name": "The Bat CFZ 1200",
+     "photo_url": "https://t.me/i/userpic/320/8DO8tYYFjimLvd1LWwzZHV249Wyk64vyuT40vHDn57Q.jpg",
+     "username": "Pixelbat"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 33,
+  "UserUUID": "3a815b1a-7cfa-4d71-8a74-56d9c6403de5",
+  "DisplayName": "STR456 -> CFz2026 DMs open",
+  "Handle": "STR456pl",
+  "CreatedAt": "2026-05-18T06:26:06.731379Z",
+  "UpdatedAt": "2026-05-18T06:26:06.741453Z",
+  "Email": "STR456pl",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "STR456pl"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "7068229709",
+    "Email": "str456pl",
+    "Data": {
+     "auth_date": 1780316110,
+     "first_name": "STR456 -> CFz2026 DMs open",
+     "hash": "642ce3f1ff7dd5937930d0360d3754e1a51277f595fe02673e362672ae9518a4",
+     "id": 7068229709,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/3HLDUh_0rMd0JZqWyywABJTxGeX9Cz-GwaZpxD67YaFF2LE0F6E-9p_Xy7KlOfIq.jpg",
+     "username": "STR456pl"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 34,
+  "UserUUID": "7c6012f2-2f3d-4c69-8bc5-ce63e57e40ea",
+  "DisplayName": "JD",
+  "Handle": "jd_rivers",
+  "CreatedAt": "2026-05-18T08:30:18.702637Z",
+  "UpdatedAt": "2026-05-18T08:30:18.708029Z",
+  "Email": "jd_rivers",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "jd_rivers"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "7190678805",
+    "Email": "jd_rivers",
+    "Data": {
+     "auth_date": 1780592723,
+     "first_name": "JD 🔜 CE'26",
+     "hash": "84bda124231971fede2fed49e7097b6a6d7c076298d48d321612263d4d5013a8",
+     "id": 7190678805,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/T3P_TbFDRhNo46iPomJjdqd4wTL2K-WVuOmSNaNii8mBSz-AWDXwqniBa_w3p1_F.jpg",
+     "username": "jd_rivers"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 38,
+  "UserUUID": "a32fc313-92ff-4ad8-b6fe-ff53507d416f",
+  "DisplayName": "taylor 🦊",
+  "Handle": "eth0fox",
+  "CreatedAt": "2026-05-30T10:21:39.235881Z",
+  "UpdatedAt": "2026-05-30T10:21:39.250036Z",
+  "Email": "eth0fox",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "eth0fox"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "1219830691",
+    "Email": "eth0fox",
+    "Data": {
+     "auth_date": 1780136496,
+     "first_name": "taylor",
+     "hash": "7c7325b8aea897e21e8b142f2dfccef3844118218d44028e28984d904067386f",
+     "id": 1219830691,
+     "last_name": "🦊",
+     "photo_url": "https://t.me/i/userpic/320/hdF5erfOsCR2CiHFy3vrPwZj9pMXDgxlm63FUQAxyYE.jpg",
+     "username": "eth0fox"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 40,
+  "UserUUID": "485696bb-be09-42a6-b20e-03c8e9c5964a",
+  "DisplayName": "Mavvy/Hollie 🍄",
+  "Handle": "mavvy75",
+  "CreatedAt": "2026-05-31T18:52:51.019122Z",
+  "UpdatedAt": "2026-05-31T18:52:51.024143Z",
+  "Email": "mavvy75",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "mavvy75"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "6471608969",
+    "Email": "mavvy75",
+    "Data": {
+     "auth_date": 1780253560,
+     "first_name": "Mavvy/Hollie",
+     "hash": "7dc7e3abd09fe7a913c8fb709e2f251fd88cc00186f74dacbe646879199996f7",
+     "id": 6471608969,
+     "last_name": "🍄",
+     "photo_url": "https://t.me/i/userpic/320/vz8F7ztqNkGzSqDAyml1XX6HelFIu7FoKBMv2lg3jhtbyqGaF3VJJO73IgM6NQUN.jpg",
+     "username": "mavvy75"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 41,
+  "UserUUID": "77b8a17e-6313-4981-b986-4c26e0d6c2b0",
+  "DisplayName": "FarchieFox",
+  "Handle": "FarchieFox",
+  "CreatedAt": "2026-05-31T19:54:54.624118Z",
+  "UpdatedAt": "2026-05-31T19:56:09.665951Z",
+  "Email": "FarchieFox",
+  "FirstName": "Farchie",
+  "LastName": "Fox",
+  "Additional": {
+   "Email": "FarchieFox",
+   "FirstName": "Farchie",
+   "LastName": "Fox"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "5678240067",
+    "Email": "farchiefox",
+    "Data": {
+     "auth_date": 1784994559,
+     "first_name": "Farchie",
+     "hash": "e50085ac2ccd07fba3d6d37177dadd8718ba6cb66965c1d1f8e85ac8ef8d5d37",
+     "id": 5678240067,
+     "last_name": "Fox",
+     "photo_url": "https://t.me/i/userpic/320/Af2K9FRKoPQTP39oeugIA5guiKWgD4tgA1Xmwx5uY-pqVFv7Y0PBTh_e-g58IkwE.jpg",
+     "username": "FarchieFox"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 42,
+  "UserUUID": "a3a45da1-ffb7-4d12-9d19-1ea50d7e5f5f",
+  "DisplayName": "Elgin",
+  "Handle": "Kirovskie_Crab",
+  "CreatedAt": "2026-05-31T20:02:54.279196Z",
+  "UpdatedAt": "2026-05-31T20:03:21.298727Z",
+  "Email": "Kirovskie_Crab",
+  "FirstName": "Jamie ",
+  "LastName": "Ball",
+  "Additional": {
+   "Email": "Kirovskie_Crab",
+   "FirstName": "Jamie ",
+   "LastName": "Ball"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "8149512884",
+    "Email": "kirovskie_crab",
+    "Data": {
+     "auth_date": 1784929559,
+     "first_name": "Elgin",
+     "hash": "24017f68ecb689926dc45b92bb332ce9768c57a379ed66a209bbfb4f018497f3",
+     "id": 8149512884,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/G5NeBp4_98JBZO6Y75xmrNyh_F95LCxAF_r445shBndwgUZ6KPCuKZTGajIvOc6c.jpg",
+     "username": "Kirovskie_Crab"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 43,
+  "UserUUID": "b35c6abf-1a9a-41b9-acc6-6f4ed1d5bd55",
+  "DisplayName": "Lapis Wolfe @Warrington_Furs ➡️ @Gonefuzzled :(",
+  "Handle": "LapisWolfe",
+  "CreatedAt": "2026-05-31T21:13:22.235608Z",
+  "UpdatedAt": "2026-05-31T21:14:15.693026Z",
+  "Email": "LapisWolfe",
+  "FirstName": "Liam",
+  "LastName": "Atherton",
+  "Additional": {
+   "Email": "LapisWolfe",
+   "FirstName": "Liam",
+   "LastName": "Atherton"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "700489862",
+    "Email": "lapiswolfe",
+    "Data": {
+     "auth_date": 1784977510,
+     "first_name": "💙 Lapis Wolfe",
+     "hash": "16985ade2dc5e375ae3f7fd17270c2be70ba8a8b8a728db3af0ca0039902004e",
+     "id": 700489862,
+     "last_name": "@Warrington_Furs 💙",
+     "photo_url": "https://t.me/i/userpic/320/1QtjSNZm5qsYzzHAgzpnbD0jlu8CLHhLniazPQ9KkrY.jpg",
+     "username": "LapisWolfe"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 44,
+  "UserUUID": "9fcf4bac-eebf-43b8-b45f-8a1cb01664d4",
+  "DisplayName": "LapisFoxy",
+  "Handle": "foxofmadness",
+  "CreatedAt": "2026-06-01T00:05:30.542565Z",
+  "UpdatedAt": "2026-06-01T00:05:30.546583Z",
+  "Email": "foxofmadness",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "foxofmadness"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "1186599441",
+    "Email": "foxofmadness",
+    "Data": {
+     "auth_date": 1780272327,
+     "first_name": "LapisFoxy",
+     "hash": "513ea6d695b7cf80953f76aa17f8181bea0f4a9ed2da238feead9ad70077bb0f",
+     "id": 1186599441,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/kR8fq_z6AvC2Pj3SVW525GTC1UuxW9vv7cGC0I58k14.jpg",
+     "username": "foxofmadness"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 45,
+  "UserUUID": "600b4c5b-c028-45f7-b45c-cffdbb615285",
+  "DisplayName": "Fish",
+  "Handle": "FishFerret",
+  "CreatedAt": "2026-06-01T14:32:45.650644Z",
+  "UpdatedAt": "2026-06-01T14:32:45.656964Z",
+  "Email": "FishFerret",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "FishFerret"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "612714649",
+    "Email": "fishferret",
+    "Data": {
+     "auth_date": 1784933516,
+     "first_name": "Fish",
+     "hash": "89917d213adeffc3b3e3021aab96c3983dfee8d6eeb3694bbaba54652d4fcc8d",
+     "id": 612714649,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/xtv6n7xpteSfwolgB5JxKuhkcNKaX67fFDcnPhDVJg4.jpg",
+     "username": "FishFerret"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 46,
+  "UserUUID": "352ef024-eadd-4e4a-954d-df1ecf5c70be",
+  "DisplayName": "Nebula 🔜 Core Element, EF #7357, Wild North #57",
+  "Handle": "Nebulaaaa",
+  "CreatedAt": "2026-06-01T18:06:01.278574Z",
+  "UpdatedAt": "2026-06-01T18:10:32.809353Z",
+  "Email": "Nebulaaaa",
+  "FirstName": "Bradley ",
+  "LastName": "Hack",
+  "Additional": {
+   "Email": "Nebulaaaa",
+   "FirstName": "Bradley ",
+   "LastName": "Hack"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "332459421",
+    "Email": "nebulaaaa",
+    "Data": {
+     "auth_date": 1784464390,
+     "first_name": "Nebula 🔜 Core Element, EF #7357, Wild North #57, Golden Horn",
+     "hash": "b4e16c819214d88c9bd85ae40d15bd181923e9a957690fe5e928445e2b9c42c6",
+     "id": 332459421,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/Ld_qk3GVD4Id3qxEZp7DPoOPTr_A3fbvFr3KWlmH1sE.jpg",
+     "username": "Nebulaaaa"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 47,
+  "UserUUID": "d31c036d-7dc4-43eb-8a77-4fbd0abe29ab",
+  "DisplayName": "Atlas",
+  "Handle": "AtlasTheCatt",
+  "CreatedAt": "2026-06-01T20:39:19.548143Z",
+  "UpdatedAt": "2026-06-01T20:39:42.27471Z",
+  "Email": "AtlasTheCatt",
+  "FirstName": "Joshua",
+  "LastName": "Gale",
+  "Additional": {
+   "Email": "AtlasTheCatt",
+   "FirstName": "Joshua",
+   "LastName": "Gale"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "joshegale.13@gmail.com",
+    "Email": "joshegale.13@gmail.com",
+    "Data": {}
+   },
+   {
+    "Source": "telegram",
+    "Login": "1943933730",
+    "Email": "atlasthecatt",
+    "Data": {
+     "auth_date": 1784388081,
+     "first_name": "Atlas",
+     "hash": "d7bde346c3875587ff00840452559a1e9ac1ae7d32b52990b2cff60d58868f96",
+     "id": 1943933730,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/Yxt_-GJoh0ZUEZPlJRUXIL2njVq6RIRCXlCu52Voxek.jpg",
+     "username": "AtlasTheCatt"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 48,
+  "UserUUID": "d35622bc-178f-4662-84e2-bfb25b4253db",
+  "DisplayName": "Minty Chee",
+  "Handle": "MintyCheetah",
+  "CreatedAt": "2026-06-02T19:54:28.538249Z",
+  "UpdatedAt": "2026-06-02T19:54:53.723193Z",
+  "Email": "MintyCheetah",
+  "FirstName": "John",
+  "LastName": "Nicholl",
+  "Additional": {
+   "Email": "MintyCheetah",
+   "FirstName": "John",
+   "LastName": "Nicholl"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "885384249",
+    "Email": "mintycheetah",
+    "Data": {
+     "auth_date": 1784974991,
+     "first_name": "🍦𝓜𝓲𝓷𝓽𝔂𝓫𝓸𝓫 🏳️‍🌈",
+     "hash": "a62909afb073b8148f65ed228acee8efc275fd7700290b10c22de347a2180366",
+     "id": 885384249,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/LROJUtyANxBAqqUFcq4yelg8GtEH0poOX3d8j1qyBDo.jpg",
+     "username": "MintyCheetah"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 49,
+  "UserUUID": "bf71f133-2c05-4b65-8d0a-c85dfbe76394",
+  "DisplayName": "Drio",
+  "Handle": "Enhydriodon",
+  "CreatedAt": "2026-06-03T09:50:55.875535Z",
+  "UpdatedAt": "2026-06-03T09:51:14.782133Z",
+  "Email": "Enhydriodon",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "Enhydriodon"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "962960541",
+    "Email": "enhydriodon",
+    "Data": {
+     "auth_date": 1784722157,
+     "first_name": "Drio",
+     "hash": "1b4d016c6d6010ef380317e345183620b9b18bc714a266e331121984d53acc78",
+     "id": 962960541,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/vXAicxIXeXrtD0z1DGIj07U6r0gUU_ecpqGBRceIeww.jpg",
+     "username": "Enhydriodon"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 50,
+  "UserUUID": "708a6fea-d40f-4c89-8cab-e5420d9b9c20",
+  "DisplayName": "Solo AWD",
+  "Handle": "PartTimeFox",
+  "CreatedAt": "2026-06-03T18:28:41.872112Z",
+  "UpdatedAt": "2026-06-03T18:29:46.768157Z",
+  "Email": "PartTimeFox",
+  "FirstName": "Matthew",
+  "LastName": "Boulter",
+  "Additional": {
+   "Email": "PartTimeFox",
+   "FirstName": "Matthew",
+   "LastName": "Boulter"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "624641057",
+    "Email": "parttimefox",
+    "Data": {
+     "auth_date": 1784977420,
+     "first_name": "Solo AWD 🐕 🔜",
+     "hash": "bb9382348760bb2355b9168307cfba3992e59cb1bab2d5b7668bf33e3541310f",
+     "id": 624641057,
+     "last_name": "(Ruki)",
+     "photo_url": "https://t.me/i/userpic/320/IPsQGgkVRx_4EwXhtLP29lKhTMuQQW7BMThsc9zVnC8.jpg",
+     "username": "PartTimeFox"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 51,
+  "UserUUID": "a701e992-cb24-48fd-b693-1e2e15d02213",
+  "DisplayName": "Xhhy",
+  "Handle": "User_a701e992-cb24-48fd-b693-1e2e15d02213",
+  "CreatedAt": "2026-06-03T22:13:09.365579Z",
+  "UpdatedAt": "2026-06-03T22:14:09.248842Z",
+  "Email": "xhhy.dhja@gmail.com",
+  "FirstName": "Valentin",
+  "LastName": "Laudebat",
+  "Additional": {
+   "Email": "xhhy.dhja@gmail.com",
+   "FirstName": "Valentin",
+   "LastName": "Laudebat"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "xhhy.dhja@gmail.com",
+    "Email": "xhhy.dhja@gmail.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 52,
+  "UserUUID": "c1013922-b607-495e-92d4-da29789f19ff",
+  "DisplayName": "Roxanne",
+  "Handle": "roxythefur",
+  "CreatedAt": "2026-06-04T11:59:31.772197Z",
+  "UpdatedAt": "2026-06-04T11:59:56.988786Z",
+  "Email": "roxythefur",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "roxythefur"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "8775676837",
+    "Email": "skyrimfan68420",
+    "Data": {
+     "auth_date": 1783617657,
+     "first_name": "Blue",
+     "hash": "e72cddcf2268ae9678447193a8027df61e927e0a5c0f8ac6654209a070f58a5b",
+     "id": 8775676837,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/M96FjUpFQkfy3l9x9RgctteIPw-r81OWMAdgFL_cUBPytnTIu15jN9KPEwMgq0C_.jpg",
+     "username": "skyrimfan68420"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 53,
+  "UserUUID": "b416ee6c-dffe-4fdf-882a-bc0b8f9f2942",
+  "DisplayName": "Smokey Diesel Raccoon 🔜 ConFuzzled 2026 2815",
+  "Handle": "smokeydieselraccoon",
+  "CreatedAt": "2026-06-05T14:04:50.33316Z",
+  "UpdatedAt": "2026-06-05T14:05:29.908704Z",
+  "Email": "smokeydieselraccoon",
+  "FirstName": "David",
+  "LastName": "Barr",
+  "Additional": {
+   "Email": "smokeydieselraccoon",
+   "FirstName": "David",
+   "LastName": "Barr"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "8190904308",
+    "Email": "smokeydieselraccoon",
+    "Data": {
+     "auth_date": 1780668281,
+     "first_name": "Smokey Diesel Raccoon",
+     "hash": "50fb6d174b69b8db32cf44321e866401f85d5628469aa71c99f09d263288a978",
+     "id": 8190904308,
+     "last_name": "🔜 ConFuzzled 2026 2815",
+     "photo_url": "https://t.me/i/userpic/320/9ECz89FSDaO1ru6NXTnO7JQFgxSyBey6V_PJVyb8s-oGaAnwBCzIOT2Zbf5qy0-1.jpg",
+     "username": "smokeydieselraccoon"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 54,
+  "UserUUID": "06bf50a8-ad23-47d7-b4cf-085154eb6798",
+  "DisplayName": "Chad Sapphire",
+  "Handle": "User_06bf50a8-ad23-47d7-b4cf-085154eb6798",
+  "CreatedAt": "2026-06-06T09:54:31.674891Z",
+  "UpdatedAt": "2026-06-06T09:57:35.223576Z",
+  "Email": "chadsapphire710@gmail.com",
+  "FirstName": "Chad",
+  "LastName": "Sapphire",
+  "Additional": {
+   "Email": "chadsapphire710@gmail.com",
+   "FirstName": "Chad",
+   "LastName": "Sapphire"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "chadsapphire710@gmail.com",
+    "Email": "chadsapphire710@gmail.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 55,
+  "UserUUID": "6809d712-0519-4e58-8a3f-1821e21b2fa6",
+  "DisplayName": "Gorfeld",
+  "Handle": "thegorfeld",
+  "CreatedAt": "2026-06-08T17:01:27.747223Z",
+  "UpdatedAt": "2026-06-08T17:02:12.461091Z",
+  "Email": "thegorfeld",
+  "FirstName": "Thomas",
+  "LastName": "Dalton",
+  "Additional": {
+   "Email": "thegorfeld",
+   "FirstName": "Thomas",
+   "LastName": "Dalton"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "187454291",
+    "Email": "thegorfeld",
+    "Data": {
+     "auth_date": 1780938079,
+     "first_name": "Gorfeld (Pine)",
+     "hash": "669836789e8618aae5093468065043da7696b09cb258467426f5a0786ab07333",
+     "id": 187454291,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/ke3Ut0DASdsd-BlCTRyf_mD02bhAqsY6JFc5TLBBpjU.jpg",
+     "username": "thegorfeld"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 56,
+  "UserUUID": "6705319d-bdc2-4494-a30f-eefe8896cb91",
+  "DisplayName": "Foxy Loxy",
+  "Handle": "Foxyloxy25",
+  "CreatedAt": "2026-06-10T17:05:56.81377Z",
+  "UpdatedAt": "2026-06-10T17:06:07.928144Z",
+  "Email": "Foxyloxy25",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "Foxyloxy25"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "jamer_1991@live.co.uk",
+    "Email": "jamer_1991@live.co.uk",
+    "Data": {}
+   },
+   {
+    "Source": "telegram",
+    "Login": "8474781320",
+    "Email": "foxyloxy25",
+    "Data": {
+     "auth_date": 1784930813,
+     "first_name": "Foxy",
+     "hash": "b74fac79ad87fd55e72c28ec50ed45f4bef959ff8374fc11d10c926fce21324f",
+     "id": 8474781320,
+     "last_name": "Loxy",
+     "photo_url": "https://t.me/i/userpic/320/GM1tEPDhxZOpzvyPpL2LO6IdIjuNhynta3oASR05xrEx6s9X0wk5jhzXc6_gXySs.jpg",
+     "username": "Foxyloxy25"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 57,
+  "UserUUID": "26954c1a-c48a-4cde-b860-340e24695c0c",
+  "DisplayName": "Syfy",
+  "Handle": "SyfyPanda",
+  "CreatedAt": "2026-06-12T15:19:21.267375Z",
+  "UpdatedAt": "2026-06-12T15:19:51.544491Z",
+  "Email": "SyfyPanda",
+  "FirstName": "SImon",
+  "LastName": "Bidmead",
+  "Additional": {
+   "Email": "SyfyPanda",
+   "FirstName": "SImon",
+   "LastName": "Bidmead"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "346957346",
+    "Email": "syfypanda",
+    "Data": {
+     "auth_date": 1784970208,
+     "first_name": "Syfy",
+     "hash": "02401cb95190356ad7286f1732361ca774a1f5817926d8a3362b01ceca324afe",
+     "id": 346957346,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/79gPmRWZzj_M9H-VqG3qA3Qqt29pa0lGQN5m9p9g2_Y.jpg",
+     "username": "SyfyPanda"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 58,
+  "UserUUID": "947bf928-c13f-4455-a6f5-8db4961fad71",
+  "DisplayName": "Fulgur",
+  "Handle": "Fullgut",
+  "CreatedAt": "2026-06-12T15:20:00.193016Z",
+  "UpdatedAt": "2026-06-12T15:20:23.235547Z",
+  "Email": "Fullgut",
+  "FirstName": "Lewis",
+  "LastName": "Abraham",
+  "Additional": {
+   "Email": "Fullgut",
+   "FirstName": "Lewis",
+   "LastName": "Abraham"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "318500770",
+    "Email": "fullgut",
+    "Data": {
+     "auth_date": 1783710688,
+     "first_name": "Fulgur",
+     "hash": "99be9b3528cea19a4a034fc69f42faec9a7025e68cbf6ca4b336a1f5aeb3a7bc",
+     "id": 318500770,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/oH016hg1AvzaSALDdadY8pEkySUAiNDU3aVVRK0Q-Ms.jpg",
+     "username": "Fullgut"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 60,
+  "UserUUID": "0b7f1ee1-d458-4867-92b0-f4471dce8959",
+  "DisplayName": "Charlie The fox",
+  "Handle": "Bubsy3000",
+  "CreatedAt": "2026-06-13T09:29:36.462636Z",
+  "UpdatedAt": "2026-06-13T09:30:28.734795Z",
+  "Email": "Bubsy3000",
+  "FirstName": "Charlie",
+  "LastName": "Johnson",
+  "Additional": {
+   "Email": "Bubsy3000",
+   "FirstName": "Charlie",
+   "LastName": "Johnson"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "5811125757",
+    "Email": "bubsy3000",
+    "Data": {
+     "auth_date": 1781361164,
+     "first_name": "Charlie",
+     "hash": "9989a3e0f55e14cae1e940ef68c2d4ca31686da3c657c79961cc250b765895e1",
+     "id": 5811125757,
+     "last_name": "The fox",
+     "photo_url": "https://t.me/i/userpic/320/hursHert5iDrggWQg2M-oaI-UGy24gsnhUP_8evf9URGVUCtrODezlMi_EK8_eUT.jpg",
+     "username": "Bubsy3000"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 61,
+  "UserUUID": "a7468a2c-17fa-482d-853f-590e0c2069ef",
+  "DisplayName": "Delicate Frost",
+  "Handle": "User_a7468a2c-17fa-482d-853f-590e0c2069ef",
+  "CreatedAt": "2026-06-13T20:03:32.071644Z",
+  "UpdatedAt": "2026-06-13T20:03:32.077835Z",
+  "Email": "lyt0_@outlook.com",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "lyt0_@outlook.com"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "lyt0_@outlook.com",
+    "Email": "lyt0_@outlook.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 62,
+  "UserUUID": "eec7ba25-df2a-45e1-be3e-af1f769594e5",
+  "DisplayName": "DragoZY/DZY ➡️Cabincon🔜EF",
+  "Handle": "Prof_DZY",
+  "CreatedAt": "2026-06-14T14:23:23.415189Z",
+  "UpdatedAt": "2026-06-14T14:23:33.508759Z",
+  "Email": "Prof_DZY",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "Prof_DZY"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "7136273396",
+    "Email": "prof_dzy",
+    "Data": {
+     "auth_date": 1784977576,
+     "first_name": "DragoZY/DZY",
+     "hash": "a56cfe777d86472699205c8b948802a2d9361280c43c3430bc9f3164acd83e26",
+     "id": 7136273396,
+     "last_name": "➡️EF🔜Donny Railfurs",
+     "photo_url": "https://t.me/i/userpic/320/LL11y25q_B_nszQ_R02HbDUggYhxeujKWz9XtZqUta9rh3fF4hlNRWUsYJhGcPAF.jpg",
+     "username": "Prof_DZY"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 63,
+  "UserUUID": "a3cee432-9f6c-49c7-a0f0-54439373c1dd",
+  "DisplayName": "RobinTheFox",
+  "Handle": "User_a3cee432-9f6c-49c7-a0f0-54439373c1dd",
+  "CreatedAt": "2026-06-15T18:02:20.315614Z",
+  "UpdatedAt": "2026-06-15T18:03:44.757256Z",
+  "Email": "paul.dye@hotmail.co.uk",
+  "FirstName": "Paul",
+  "LastName": "Dye",
+  "Additional": {
+   "Email": "paul.dye@hotmail.co.uk",
+   "FirstName": "Paul",
+   "LastName": "Dye"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "paul.dye@hotmail.co.uk",
+    "Email": "paul.dye@hotmail.co.uk",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 64,
+  "UserUUID": "34b77213-99cf-4b79-92df-ef2cf2da2a39",
+  "DisplayName": "Felix",
+  "Handle": "felix_protogen",
+  "CreatedAt": "2026-06-15T19:49:32.158644Z",
+  "UpdatedAt": "2026-06-15T19:51:05.387298Z",
+  "Email": "felix_protogen",
+  "FirstName": "Jack",
+  "LastName": "Toyne",
+  "Additional": {
+   "Email": "felix_protogen",
+   "FirstName": "Jack",
+   "LastName": "Toyne"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "5167039947",
+    "Email": "felix_protogen",
+    "Data": {
+     "auth_date": 1781552953,
+     "first_name": "Felix",
+     "hash": "26c428b3d5af78c717d8e6e0cbf61cff9500876db63fa0a9fadf7ec791962a43",
+     "id": 5167039947,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/rtOPkb2iVyMFOCGzWWw2aNuPar5tHhEssDMp0b-b7bLuhSRzSZvaUbedZsuZSIkF.jpg",
+     "username": "felix_protogen"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 65,
+  "UserUUID": "9fa538a3-7dd5-4eb7-81c5-7f8b40bd5767",
+  "DisplayName": "Ash",
+  "Handle": "ashthehellhxund",
+  "CreatedAt": "2026-06-17T10:35:31.351863Z",
+  "UpdatedAt": "2026-06-17T10:35:41.343013Z",
+  "Email": "ashthehellhxund",
+  "FirstName": "Ash",
+  "LastName": "Nicholas",
+  "Additional": {
+   "Email": "ashthehellhxund",
+   "FirstName": "Ash",
+   "LastName": "Nicholas"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "708719715",
+    "Email": "ashthehellhxund",
+    "Data": {
+     "auth_date": 1781692527,
+     "first_name": "Ash",
+     "hash": "52fa37b0a466f9804533e61595b31982e641ee9245f4ceac559688dace44d1ac",
+     "id": 708719715,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/sRVFiH4wZsseO_18iWaCzSvx5GKw3Igpb7IWxapCcfY.jpg",
+     "username": "ashthehellhxund"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 66,
+  "UserUUID": "c1b579ed-f696-489d-8a95-315962fd713c",
+  "DisplayName": "Tea🧋(Wisp)",
+  "Handle": "Teasiren",
+  "CreatedAt": "2026-06-17T11:05:29.973981Z",
+  "UpdatedAt": "2026-06-17T11:06:16.051168Z",
+  "Email": "Teasiren",
+  "FirstName": "Angelica",
+  "LastName": "Gonzalez",
+  "Additional": {
+   "Email": "Teasiren",
+   "FirstName": "Angelica",
+   "LastName": "Gonzalez"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "1268217507",
+    "Email": "teasiren",
+    "Data": {
+     "auth_date": 1784974927,
+     "first_name": "Tea🧋(Wisp)",
+     "hash": "c906a9a7095b4d71c67ed2b691ab712474443efcd7b24bd4fb1ea54d2684dab1",
+     "id": 1268217507,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/mBSVyjKAIXmcI790OBzlRwFkbeJeeDgeISW9Y4rR8eE.jpg",
+     "username": "Teasiren"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 67,
+  "UserUUID": "c55d866c-5c77-4687-9631-fb786fae37dc",
+  "DisplayName": "Revie Rae",
+  "Handle": "Revie_Rae",
+  "CreatedAt": "2026-06-17T11:11:44.434376Z",
+  "UpdatedAt": "2026-06-17T11:12:06.257557Z",
+  "Email": "Revie_Rae",
+  "FirstName": "Rebecca",
+  "LastName": "Coddington",
+  "Additional": {
+   "Email": "Revie_Rae",
+   "FirstName": "Rebecca",
+   "LastName": "Coddington"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "raeartinbox@gmail.com",
+    "Email": "raeartinbox@gmail.com",
+    "Data": {}
+   },
+   {
+    "Source": "telegram",
+    "Login": "559087404",
+    "Email": "revie_rae",
+    "Data": {
+     "auth_date": 1784967341,
+     "first_name": "✨Revie Rae✨ (🔜 Donny Party)",
+     "hash": "e2529dadfd63f899b09e99b36e52d0b033b055464f1974a8618743c0c73cafbd",
+     "id": 559087404,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/CIisL2uQa8CTFkRRLAgRwPvx-aJwjKeNMwsg8Q4YS28.jpg",
+     "username": "Revie_Rae"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 70,
+  "UserUUID": "1088740b-5d35-4f96-815e-b85d37f6bc47",
+  "DisplayName": "Benji²",
+  "Handle": "benji_squared",
+  "CreatedAt": "2026-07-03T06:26:08.062013Z",
+  "UpdatedAt": "2026-07-03T06:26:33.226365Z",
+  "Email": "benji_squared",
+  "FirstName": "Joseph",
+  "LastName": "Whitehead",
+  "Additional": {
+   "Email": "benji_squared",
+   "FirstName": "Joseph",
+   "LastName": "Whitehead"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "685119405",
+    "Email": "benji_squared",
+    "Data": {
+     "auth_date": 1784978350,
+     "first_name": "Benji²",
+     "hash": "f24327b9a93ed09805dee4b178a0c032fd5ad73f2278ef62eedcd7b5f597ea1c",
+     "id": 685119405,
+     "last_name": "🔜 DFJP 🔜 DW '26 🔜 SC '27",
+     "photo_url": "https://t.me/i/userpic/320/uSyseBCivpzpwFfG4Q8bQncIZJx-RzUZX_TKCUHHP70.jpg",
+     "username": "benji_squared"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 71,
+  "UserUUID": "3af933ae-a629-4dcb-96c0-21455734b5f9",
+  "DisplayName": "Gingernut",
+  "Handle": "User_3af933ae-a629-4dcb-96c0-21455734b5f9",
+  "CreatedAt": "2026-07-05T10:26:59.918096Z",
+  "UpdatedAt": "2026-07-05T10:27:54.523413Z",
+  "Email": "domslater@outlook.com",
+  "FirstName": "Dom",
+  "LastName": "Slater",
+  "Additional": {
+   "Email": "domslater@outlook.com",
+   "FirstName": "Dom",
+   "LastName": "Slater"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "domslater@outlook.com",
+    "Email": "domslater@outlook.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 72,
+  "UserUUID": "f2e6e123-7ba6-44ba-8bd7-074699a93d38",
+  "DisplayName": "AutumnGoGoGoat",
+  "Handle": "AutumnGoGoGoat",
+  "CreatedAt": "2026-07-05T20:15:58.870054Z",
+  "UpdatedAt": "2026-07-05T20:16:23.830179Z",
+  "Email": "AutumnGoGoGoat",
+  "FirstName": "Jake",
+  "LastName": "Fry",
+  "Additional": {
+   "Email": "AutumnGoGoGoat",
+   "FirstName": "Jake",
+   "LastName": "Fry"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "autumngogogoat@gmail.com",
+    "Email": "autumngogogoat@gmail.com",
+    "Data": {}
+   },
+   {
+    "Source": "telegram",
+    "Login": "681460470",
+    "Email": "autumngogogoat",
+    "Data": {
+     "auth_date": 1783282547,
+     "first_name": "Autumn (Kiki)",
+     "hash": "62d36196e940b5df377bd33bf8e02b5b4bb18a9c4c0dd9e358aa7be46b079820",
+     "id": 681460470,
+     "last_name": "Goat",
+     "photo_url": "https://t.me/i/userpic/320/H3Y1GH0OtgKj2mKT8CY-vbzbh4ub-OWcdLTt8k6NuNs.jpg",
+     "username": "AutumnGoGoGoat"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 73,
+  "UserUUID": "79abd91e-14e4-465c-8689-72c168f6efbb",
+  "DisplayName": "Puffle",
+  "Handle": "pufflemaster",
+  "CreatedAt": "2026-07-06T14:35:56.34309Z",
+  "UpdatedAt": "2026-07-06T14:36:18.670649Z",
+  "Email": "pufflemaster",
+  "FirstName": "Toby",
+  "LastName": "Knight",
+  "Additional": {
+   "Email": "pufflemaster",
+   "FirstName": "Toby",
+   "LastName": "Knight"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "7482492871",
+    "Email": "pufflemaster",
+    "Data": {
+     "auth_date": 1783348552,
+     "first_name": "Puffle",
+     "hash": "280f13ed3ee60adc35f9d8f4a17fcebcad226dea5971fd56b0adcaa99b798490",
+     "id": 7482492871,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/wMIoxDwEn6cC1hLw5Xqx9ZD2WuH3553p1NBazGRgVw3LLATjsYKu6Iss6Y7WASrD.jpg",
+     "username": "pufflemaster"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 74,
+  "UserUUID": "b9e19032-8f75-49ac-a168-39ce07b91e8e",
+  "DisplayName": "rossy",
+  "Handle": "User_b9e19032-8f75-49ac-a168-39ce07b91e8e",
+  "CreatedAt": "2026-07-07T20:56:19.184502Z",
+  "UpdatedAt": "2026-07-07T20:56:54.141081Z",
+  "Email": null,
+  "FirstName": "Jac",
+  "LastName": "Ross",
+  "Additional": {
+   "Email": "",
+   "FirstName": "Jac",
+   "LastName": "Ross"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "2040455101",
+    "Email": "",
+    "Data": {
+     "auth_date": 1783457774,
+     "first_name": "Jac",
+     "hash": "2be739504203d6f39b27e0a92b726a420b96a69b688b208c69689be2867afcbb",
+     "id": 2040455101,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/69vu7hJLbRM-X12vh8sy74cK6vdv5X-pf1nU7xo-xC0.jpg",
+     "username": null
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 75,
+  "UserUUID": "fbe7b936-6fe6-4cf1-b08e-021ad2040889",
+  "DisplayName": "Mollia Woofer",
+  "Handle": "Softwoofer",
+  "CreatedAt": "2026-07-08T17:21:40.975706Z",
+  "UpdatedAt": "2026-07-08T17:22:13.850487Z",
+  "Email": "Softwoofer",
+  "FirstName": "Sarah",
+  "LastName": "Burrows",
+  "Additional": {
+   "Email": "Softwoofer",
+   "FirstName": "Sarah",
+   "LastName": "Burrows"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "346233972",
+    "Email": "softwoofer",
+    "Data": {
+     "auth_date": 1783642508,
+     "first_name": "Mollia",
+     "hash": "c3454f41c54198d7589073ff3f3ba980322f8781c28f955d00508ce0ef07e482",
+     "id": 346233972,
+     "last_name": "Woofer",
+     "photo_url": "https://t.me/i/userpic/320/tM4b0XfBDYhbnDvKxPZ3C37FdESkiPRC85b9lB45Et4.jpg",
+     "username": "Softwoofer"
+    }
+   },
+   {
+    "Source": "internal",
+    "Login": "morris8713@gmail.com",
+    "Email": "morris8713@gmail.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 76,
+  "UserUUID": "a0504861-b7ef-4dec-b427-e37ed0ad801e",
+  "DisplayName": "🌸 Keida",
+  "Handle": "Keidaarts",
+  "CreatedAt": "2026-07-09T10:28:16.512367Z",
+  "UpdatedAt": "2026-07-09T10:28:35.116049Z",
+  "Email": "Keidaarts",
+  "FirstName": "Kelly",
+  "LastName": "Alexandria",
+  "Additional": {
+   "Email": "Keidaarts",
+   "FirstName": "Kelly",
+   "LastName": "Alexandria"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "566024505",
+    "Email": "keidaarts",
+    "Data": {
+     "auth_date": 1784978039,
+     "first_name": "🌸 Keida",
+     "hash": "7c0e74fa791cd5c8ec4f18ea716d6a3c5cdebf8beaaed6aadac0fd23879b4526",
+     "id": 566024505,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/l7CpiP3u0TA2jMU62i5mVbf0vbOnSs3zGDK9Ye0Zbak.jpg",
+     "username": "Keidaarts"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 77,
+  "UserUUID": "bcea32a7-5d89-48d9-9aa6-fc4fceda3363",
+  "DisplayName": "Damien \"Hades\"",
+  "Handle": "HadesShoth",
+  "CreatedAt": "2026-07-10T17:41:56.243082Z",
+  "UpdatedAt": "2026-07-10T17:42:28.149757Z",
+  "Email": "HadesShoth",
+  "FirstName": "Logan",
+  "LastName": "Goodinson",
+  "Additional": {
+   "Email": "HadesShoth",
+   "FirstName": "Logan",
+   "LastName": "Goodinson"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "goodinsonlogan@gmail.com",
+    "Email": "goodinsonlogan@gmail.com",
+    "Data": {}
+   },
+   {
+    "Source": "telegram",
+    "Login": "6522318835",
+    "Email": "hadesshoth",
+    "Data": {
+     "auth_date": 1784930111,
+     "first_name": "Damien",
+     "hash": "8f93d07f7cef74bf93bc6fb44bf52fa9977122e044f8dec9adb3b64e70750d76",
+     "id": 6522318835,
+     "last_name": "\"Hades\"",
+     "photo_url": "https://t.me/i/userpic/320/yROpFBdmK1A-VhArrZehM3VGOto7blHRPx_5fNwW8C_YXh1hN5oZPvDHtGgYiSPn.jpg",
+     "username": "HadesShoth"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 79,
+  "UserUUID": "257233c8-27f5-481c-a7f3-dd2d64622423",
+  "DisplayName": "Eclipsewolf",
+  "Handle": "Eclipseswolf",
+  "CreatedAt": "2026-07-11T16:30:47.937003Z",
+  "UpdatedAt": "2026-07-11T16:31:12.546887Z",
+  "Email": "Eclipseswolf",
+  "FirstName": "Will",
+  "LastName": "Brownsword",
+  "Additional": {
+   "Email": "Eclipseswolf",
+   "FirstName": "Will",
+   "LastName": "Brownsword"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "5476069158",
+    "Email": "eclipseswolf",
+    "Data": {
+     "auth_date": 1784570067,
+     "first_name": "Eclipsewolf",
+     "hash": "b099ce16d7215afc473d561fb61eb923a838baf7425ecc0fb8e266b4bd2f74cb",
+     "id": 5476069158,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/z3QFZ4NCM1l2n57vmn6I703FtWWyuz95eBzzdWdk-hj1O8k0TjIrnACcN--MK0ek.jpg",
+     "username": "Eclipseswolf"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 80,
+  "UserUUID": "46c588d4-a29f-4f41-8e7d-c6bc110160de",
+  "DisplayName": "Gigi 🔜CFZ",
+  "Handle": "Gigitheangelcat",
+  "CreatedAt": "2026-07-12T18:28:19.191119Z",
+  "UpdatedAt": "2026-07-12T18:28:26.510733Z",
+  "Email": "Gigitheangelcat",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "Gigitheangelcat"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "8499059697",
+    "Email": "gigitheangelcat",
+    "Data": {
+     "auth_date": 1784222710,
+     "first_name": "Gigi",
+     "hash": "01b2485e7694c0d2409931b354316ed5a32f25b87ed88a021d6470f562893c4b",
+     "id": 8499059697,
+     "last_name": "🔜CFZ",
+     "photo_url": "https://t.me/i/userpic/320/O-dERC9Yon3RY-SGCQtD1A3jMsLj79Ev0coKp8ptJ0zPhRTvGJpP1tWH0tvy41hj.jpg",
+     "username": "Gigitheangelcat"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 81,
+  "UserUUID": "7140330a-f518-40bc-8bc9-c279abf3cd34",
+  "DisplayName": "Kaia Fox",
+  "Handle": "Kaia_the_fox",
+  "CreatedAt": "2026-07-12T18:43:33.12916Z",
+  "UpdatedAt": "2026-07-12T18:43:33.134314Z",
+  "Email": "Kaia_the_fox",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "Kaia_the_fox"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "8469088282",
+    "Email": "kaia_the_fox",
+    "Data": {
+     "auth_date": 1783881806,
+     "first_name": "Kaia",
+     "hash": "17023a668118b056176a66c9e2919b713dc473e141cd37405590e293678b0cac",
+     "id": 8469088282,
+     "last_name": "Fox",
+     "photo_url": "https://t.me/i/userpic/320/17GcMxdpM6KsWh0plHYoNR50rVkCQbZpEESC1oKtfrzUXnDazbIS9KabkkjEBwQk.jpg",
+     "username": "Kaia_the_fox"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 82,
+  "UserUUID": "8e2bb732-858f-4adf-b65d-00f1f798c36e",
+  "DisplayName": "Ravyn",
+  "Handle": "User_8e2bb732-858f-4adf-b65d-00f1f798c36e",
+  "CreatedAt": "2026-07-12T18:56:31.570205Z",
+  "UpdatedAt": "2026-07-12T18:57:39.274592Z",
+  "Email": "sofio@live.co.uk",
+  "FirstName": "Sophie",
+  "LastName": "O'Connor",
+  "Additional": {
+   "Email": "sofio@live.co.uk",
+   "FirstName": "Sophie",
+   "LastName": "O'Connor"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "sofio@live.co.uk",
+    "Email": "sofio@live.co.uk",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 83,
+  "UserUUID": "97fa9097-6fa1-42f0-a99e-c5c341ea580c",
+  "DisplayName": "Purple Firefly",
+  "Handle": "User_97fa9097-6fa1-42f0-a99e-c5c341ea580c",
+  "CreatedAt": "2026-07-12T19:44:43.653945Z",
+  "UpdatedAt": "2026-07-12T19:44:43.658336Z",
+  "Email": "clayton.layfield2@gmail.com",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "clayton.layfield2@gmail.com"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "clayton.layfield2@gmail.com",
+    "Email": "clayton.layfield2@gmail.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 84,
+  "UserUUID": "a0c2ab36-2089-46d4-89df-33f1fae4465d",
+  "DisplayName": "Ryan",
+  "Handle": "OrbitingHydrogen",
+  "CreatedAt": "2026-07-12T20:07:58.758464Z",
+  "UpdatedAt": "2026-07-12T20:08:16.017814Z",
+  "Email": "OrbitingHydrogen",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "OrbitingHydrogen"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "8608900740",
+    "Email": "orbitinghydrogen",
+    "Data": {
+     "auth_date": 1784980781,
+     "first_name": "Ryan",
+     "hash": "d45f9ddaef6995b92785b69b1f60261a3a209ea1994dbe737b96cfa01de83924",
+     "id": 8608900740,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/c9b1lJjOwCcBue6Gr3TEnfQA4HRr5ANNLWw_gGY6kK9cVIitov9_b79HSyix-WoL.jpg",
+     "username": "OrbitingHydrogen"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 85,
+  "UserUUID": "ee941614-daf7-4db7-937c-31789bcfda16",
+  "DisplayName": "Argyll The Raccoon (DJ Boi) (Latte the Raptordog)🇪🇺",
+  "Handle": "LatteRaptordog",
+  "CreatedAt": "2026-07-13T14:10:08.17194Z",
+  "UpdatedAt": "2026-07-13T14:10:29.177914Z",
+  "Email": "LatteRaptordog",
+  "FirstName": "Argyll",
+  "LastName": "Raccoon",
+  "Additional": {
+   "Email": "LatteRaptordog",
+   "FirstName": "Argyll",
+   "LastName": "Raccoon"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "357146129",
+    "Email": "latteraptordog",
+    "Data": {
+     "auth_date": 1783951804,
+     "first_name": "Argyll The Raccoon (DJ Boi)",
+     "hash": "42bc097941a31245c0363482d840ef0a966a84e7d037831ebd8c7e4b3a2c659b",
+     "id": 357146129,
+     "last_name": "(Latte the Raptordog)🇪🇺",
+     "photo_url": "https://t.me/i/userpic/320/jJmP4GdKXE8gEv0uIBk2iHm1arKws4XgC1J7VKk6YmQ.jpg",
+     "username": "LatteRaptordog"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 87,
+  "UserUUID": "6a39a568-179e-47f9-810f-18c54a039bf7",
+  "DisplayName": "Oracle / Askani",
+  "Handle": "Wolfieoracle",
+  "CreatedAt": "2026-07-15T17:24:37.641904Z",
+  "UpdatedAt": "2026-07-15T17:24:58.222867Z",
+  "Email": "Wolfieoracle",
+  "FirstName": "Julian",
+  "LastName": "Hodgson",
+  "Additional": {
+   "Email": "Wolfieoracle",
+   "FirstName": "Julian",
+   "LastName": "Hodgson"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "156922247",
+    "Email": "wolfieoracle",
+    "Data": {
+     "auth_date": 1784136274,
+     "first_name": "Oracle / Askani",
+     "hash": "4985a3ef398ff5c35fbe36b66dd3176a8ad31252ce011f3b87d820e66895ed8c",
+     "id": 156922247,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/1PGLGroFxuJ86uLpwcd2hrsUIuaBnvaol5m92jnhMNI.jpg",
+     "username": "Wolfieoracle"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 88,
+  "UserUUID": "b68e8fee-9964-48b8-a121-ba9bff8ec255",
+  "DisplayName": "AAPOXX",
+  "Handle": "User_b68e8fee-9964-48b8-a121-ba9bff8ec255",
+  "CreatedAt": "2026-07-15T21:39:28.539955Z",
+  "UpdatedAt": "2026-07-15T21:40:10.513689Z",
+  "Email": "Cameronperry1491@gmail.com",
+  "FirstName": "Dexter",
+  "LastName": "Morgan",
+  "Additional": {
+   "Email": "Cameronperry1491@gmail.com",
+   "FirstName": "Dexter",
+   "LastName": "Morgan"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "cameronperry1491@gmail.com",
+    "Email": "cameronperry1491@gmail.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 89,
+  "UserUUID": "1c823ec4-5f79-45a7-98de-1e6916ce291a",
+  "DisplayName": "Snacgon",
+  "Handle": "Snacgon",
+  "CreatedAt": "2026-07-16T19:23:27.972903Z",
+  "UpdatedAt": "2026-07-16T19:24:08.042875Z",
+  "Email": "Snacgon",
+  "FirstName": "Kieran",
+  "LastName": "McCormack",
+  "Additional": {
+   "Email": "Snacgon",
+   "FirstName": "Kieran",
+   "LastName": "McCormack"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "8235667085",
+    "Email": "snacgon",
+    "Data": {
+     "auth_date": 1784229799,
+     "first_name": "Snacgon",
+     "hash": "a85238d05301a987a26ce53b970613ba2c7f958c0f119c76a3165c488816f372",
+     "id": 8235667085,
+     "last_name": "The Snacky Snack Dragon",
+     "photo_url": "https://t.me/i/userpic/320/fXL4yiDM64qok733V-50plJvsxpwSnGAhCP408ZOHK1gWk36f1urri8kzcmjLD09.jpg",
+     "username": "Snacgon"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 90,
+  "UserUUID": "05286843-ccdf-4f73-9794-f334994ded42",
+  "DisplayName": "Ox Eun 🇬🇧",
+  "Handle": "OxEun",
+  "CreatedAt": "2026-07-18T17:23:34.755945Z",
+  "UpdatedAt": "2026-07-18T17:23:34.76309Z",
+  "Email": "OxEun",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "OxEun"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "754128323",
+    "Email": "oxeun",
+    "Data": {
+     "auth_date": 1784488865,
+     "first_name": "Ox",
+     "hash": "51896252a8e50c2bd006cfed1d725f629fa5fa68f19dee901720aa5e05cc9226",
+     "id": 754128323,
+     "last_name": "Eun 🇬🇧",
+     "photo_url": "https://t.me/i/userpic/320/iqNSYLlovF7TQVwxyteDsffBIUVQy0uVzarTw8HN_UQ.jpg",
+     "username": "OxEun"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 92,
+  "UserUUID": "db3e5a9f-a2bf-41b1-86ab-c7e6e678a401",
+  "DisplayName": "Sara Hickman",
+  "Handle": "User_db3e5a9f-a2bf-41b1-86ab-c7e6e678a401",
+  "CreatedAt": "2026-07-19T19:36:22.588612Z",
+  "UpdatedAt": "2026-07-19T19:36:22.596984Z",
+  "Email": null,
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": ""
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "878483090",
+    "Email": "",
+    "Data": {
+     "auth_date": 1784489774,
+     "first_name": "Sara",
+     "hash": "a990e671d30f6a4ed96f3ab5437ba726f8666fced050c53e189d5cdc3fdca8d1",
+     "id": 878483090,
+     "last_name": "Hickman",
+     "photo_url": null,
+     "username": null
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 93,
+  "UserUUID": "bd347133-4023-402a-a283-e759b76044a2",
+  "DisplayName": "Pri0",
+  "Handle": "MatD7",
+  "CreatedAt": "2026-07-20T02:27:27.661812Z",
+  "UpdatedAt": "2026-07-20T02:28:00.63539Z",
+  "Email": "MatD7",
+  "FirstName": "Matthew",
+  "LastName": "Durrant",
+  "Additional": {
+   "Email": "MatD7",
+   "FirstName": "Matthew",
+   "LastName": "Durrant"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "696242646",
+    "Email": "matd7",
+    "Data": {
+     "auth_date": 1784977472,
+     "first_name": "M",
+     "hash": "a05fd95e436a3b1f2501a485652d0830980d916e81d97313dde4d6358cb30cf9",
+     "id": 696242646,
+     "last_name": "D",
+     "photo_url": "https://t.me/i/userpic/320/2f_-8eZiYVPX2EoxEUor60MUdDmITGyL5Qqjo__cqlw.jpg",
+     "username": "MatD7"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 94,
+  "UserUUID": "3f1dbc52-b599-48b4-8b45-41655ee0f37b",
+  "DisplayName": "NoF0XESGiven!",
+  "Handle": "NoF0XESGiven",
+  "CreatedAt": "2026-07-20T08:29:13.690888Z",
+  "UpdatedAt": "2026-07-20T08:29:37.642796Z",
+  "Email": "NoF0XESGiven",
+  "FirstName": "Lydia",
+  "LastName": "Stanway",
+  "Additional": {
+   "Email": "NoF0XESGiven",
+   "FirstName": "Lydia",
+   "LastName": "Stanway"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "542832773",
+    "Email": "nof0xesgiven",
+    "Data": {
+     "auth_date": 1784658836,
+     "first_name": "Bec |",
+     "hash": "cbb62d57c6228e5a769caf5891a1ba703cff91d7d24d16466e1aab3d0fe85b07",
+     "id": 542832773,
+     "last_name": "NoF0XESGiven!",
+     "photo_url": "https://t.me/i/userpic/320/HBXV5CHp9ma1IpcT4atyKZB9YFJuSc6V13EXKGVbeCM.jpg",
+     "username": "NoF0XESGiven"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 95,
+  "UserUUID": "a1ce8050-3700-4fc6-a9bd-753de9cceed8",
+  "DisplayName": "ArcadeEngineer They/Them",
+  "Handle": "ArcadeEngineer",
+  "CreatedAt": "2026-07-20T16:39:15.109388Z",
+  "UpdatedAt": "2026-07-20T16:39:15.116081Z",
+  "Email": "ArcadeEngineer",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "ArcadeEngineer"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "7616734517",
+    "Email": "arcadeengineer",
+    "Data": {
+     "auth_date": 1784978158,
+     "first_name": "ArcadeEngineer",
+     "hash": "f6f515295b3ea21f277eb49796c82ee74af7f321b698c60c54d384d63d1dc200",
+     "id": 7616734517,
+     "last_name": "They/Them",
+     "photo_url": "https://t.me/i/userpic/320/dc-ARX_qlQ4mCyci2w_JXPsm9lxATX_tBhE9cVohfLnk-YvYG5amfJi_gEid3wYz.jpg",
+     "username": "ArcadeEngineer"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 96,
+  "UserUUID": "384ae9fb-3049-4860-96fe-1af9f06255e8",
+  "DisplayName": "Raven",
+  "Handle": "RavenWolfclaw",
+  "CreatedAt": "2026-07-21T11:11:42.701029Z",
+  "UpdatedAt": "2026-07-21T11:11:42.707945Z",
+  "Email": "RavenWolfclaw",
+  "FirstName": null,
+  "LastName": null,
+  "Additional": {
+   "Email": "RavenWolfclaw"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "266256937",
+    "Email": "ravenwolfclaw",
+    "Data": {
+     "auth_date": 1784653812,
+     "first_name": "Raven",
+     "hash": "0efc2880ac9bdf3b3901e7c76ea622e832f83dd6f156d02dadd607b4fe72fd94",
+     "id": 266256937,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/GrSqqzlJPItyojp0cqIRn5ZyAWnYv9PJZOPyB5JDiK8.jpg",
+     "username": "RavenWolfclaw"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 97,
+  "UserUUID": "02af44dc-151c-49c1-bd99-064503b996d5",
+  "DisplayName": "Spectre",
+  "Handle": "User_02af44dc-151c-49c1-bd99-064503b996d5",
+  "CreatedAt": "2026-07-21T20:32:21.155692Z",
+  "UpdatedAt": "2026-07-21T20:34:23.825924Z",
+  "Email": "alexd08@hotmail.co.uk",
+  "FirstName": "Alex",
+  "LastName": "Davies",
+  "Additional": {
+   "Email": "alexd08@hotmail.co.uk",
+   "FirstName": "Alex",
+   "LastName": "Davies"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "alexd08@hotmail.co.uk",
+    "Email": "alexd08@hotmail.co.uk",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 98,
+  "UserUUID": "101eaec8-2f4b-4841-a879-77f2fc4020f9",
+  "DisplayName": "Trowelhands",
+  "Handle": "User_101eaec8-2f4b-4841-a879-77f2fc4020f9",
+  "CreatedAt": "2026-07-22T20:12:24.143431Z",
+  "UpdatedAt": "2026-07-22T20:15:43.433394Z",
+  "Email": "qbeelzebub@yahoo.com",
+  "FirstName": "Bruce",
+  "LastName": "Watson",
+  "Additional": {
+   "Email": "qbeelzebub@yahoo.com",
+   "FirstName": "Bruce",
+   "LastName": "Watson"
+  },
+  "Credentials": [
+   {
+    "Source": "internal",
+    "Login": "qbeelzebub@yahoo.com",
+    "Email": "qbeelzebub@yahoo.com",
+    "Data": {}
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 99,
+  "UserUUID": "4434db9a-e805-484b-a3f8-2284c654bf96",
+  "DisplayName": "Gamepopper #WildNorth #BrumFurs",
+  "Handle": "Gamepopper",
+  "CreatedAt": "2026-07-22T21:02:12.993268Z",
+  "UpdatedAt": "2026-07-22T21:02ㅤ9.752098Z",
+  "Email": "Gamepopper",
+  "FirstName": "Tim",
+  "LastName": "Stoddard",
+  "Additional": {
+   "Email": "Gamepopper",
+   "FirstName": "Tim",
+   "LastName": "Stoddard"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "114794207",
+    "Email": "gamepopper",
+    "Data": {
+     "auth_date": 1784977519,
+     "first_name": "Gamepopper",
+     "hash": "7baaa8aae484c4b04af756b97295232569e65a4a3eb384a7098d84e47c13acaf",
+     "id": 114794207,
+     "last_name": "#WildNorth #BrumFurs",
+     "photo_url": "https://t.me/i/userpic/320/cVm-T-lE1sQHxzGGcbwsfv7LVwWS68daR80OhZrFtN4.jpg",
+     "username": "Gamepopper"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ },
+ {
+  "ID": 100,
+  "UserUUID": "9a094b54-a5bd-4e57-b66e-ca95bbcb83f0",
+  "DisplayName": "Ark/Draco",
+  "Handle": "Arkthefox",
+  "CreatedAt": "2026-07-23T14:49:01.815293Z",
+  "UpdatedAt": "2026-07-23T14:49:28.001295Z",
+  "Email": "Arkthefox",
+  "FirstName": "Benjamin",
+  "LastName": "Postlethwaite",
+  "Additional": {
+   "Email": "Arkthefox",
+   "FirstName": "Benjamin",
+   "LastName": "Postlethwaite"
+  },
+  "Credentials": [
+   {
+    "Source": "telegram",
+    "Login": "1836234887",
+    "Email": "arkthefox",
+    "Data": {
+     "auth_date": 1784978588,
+     "first_name": "Ark/Draco (slow responds on holiday)",
+     "hash": "ef71f7a43070e0b23147539f43900a58ae738dbc35fa0c44efab7b2e9f6413fc",
+     "id": 1836234887,
+     "last_name": null,
+     "photo_url": "https://t.me/i/userpic/320/dgrwKIho-csjrelnzaIQGktIoQsGIe0KD7MGED7Z7fg.jpg",
+     "username": "Arkthefox"
+    }
+   }
+  ],
+  "Groups": [],
+  "Tags": []
+ }
+]
