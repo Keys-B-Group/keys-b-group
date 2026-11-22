@@ -1,0 +1,4909 @@
+{
+  "instance": {
+    "id": "a7caeb59-7335-45fa-8bc0-d968ff913760",
+    "instance_name": "Metaminds",
+    "instance_id": "34c71dba61d1428d5e2ff381",
+    "current_version": "1.0.0",
+    "latest_version": "v1.4.3",
+    "edition": "PLANE_COMMUNITY",
+    "created_at": "2025-10-07T23:30:28.365212+05:30",
+    "updated_at": "2026-11-09T12:25:44.793887+05:30",
+    "is_setup_done": true,
+    "workspaces_exist": true
+  },
+  "workspaces": [
+    {
+      "id": "95b3f49b-3768-4213-9e66-f182b60e0f58",
+      "slug": "metaminds",
+      "name": "Metaminds",
+      "owner_email": "tanmaymundra11@gmail.com",
+      "total_projects": 86,
+      "total_members": 30,
+      "created_at": "2025-10-07T23:47:36.118775+05:30"
+    }
+  ],
+  "instance_admins": [
+    {
+      "admin_id": "56ee331c-34b5-4dfe-9ac6-b78accdf6714",
+      "role": 20,
+      "created_at": "2025-10-07T23:47:15.743542+05:30",
+      "user": {
+        "id": "b2ab8ee1-1412-46af-aac9-6abccc5197bc",
+        "first_name": "Tanmay",
+        "last_name": "Mundra",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "Tanmay Mundra",
+        "email": "tanmaymundra11@gmail.com",
+        "last_login_medium": "email"
+      }
+    }
+  ],
+  "workspace_members": [
+    {
+      "id": "c821d31d-0c31-4b35-bff2-b592497f40b8",
+      "member": {
+        "id": "c3fd5d74-a337-4e05-a4b0-bf228bcd538f",
+        "first_name": "Jatin Bharambe",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": "/api/assets/v2/static/6a403b57-9e23-4b12-a42e-bcd2cae9477a/",
+        "is_bot": false,
+        "display_name": "jatinuxdesigner",
+        "email": "jatinuxdesigner@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-11-09T12:12:32.071701+05:30",
+      "updated_at": "2026-11-09T12:12:32.071722+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "ddc056e3-7b8f-4715-8621-8a804e136ca0",
+      "member": {
+        "id": "1fa3e0cb-95e1-448e-b510-631adc404a40",
+        "first_name": "Sejal Gite",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "sejal.intern",
+        "email": "sejal.intern@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-11-09T12:11:25.820939+05:30",
+      "updated_at": "2026-11-09T12:11:25.820960+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "8419e069-f658-4c92-8b05-8fb122b19e21",
+      "member": {
+        "id": "16b6f78b-2b58-4143-a81e-ad6f3643d205",
+        "first_name": "Pranita Kumathekar",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "pranita.metaminds",
+        "email": "pranita.metaminds@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-11-09T12:07:38.784196+05:30",
+      "updated_at": "2026-11-09T12:07:38.784219+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "f047d45a-5f08-4184-867b-ee83d3e08ce2",
+      "member": {
+        "id": "52699456-15c9-4a8d-811e-6c73712895f6",
+        "first_name": "Lavanya Murudkar",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "lavanyamurudkar77",
+        "email": "lavanyamurudkar77@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-06-25T15:15:38.098319+05:30",
+      "updated_at": "2026-06-25T15:15:38.098338+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "ddf755ea-0bf1-40ad-a534-7b3c77a148c2",
+      "member": {
+        "id": "07fee24f-968e-4387-bbf3-e37551ddf71b",
+        "first_name": "Swapnil Suryanarayan",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": "/api/assets/v2/static/4db5ccf6-722c-49b9-be8a-cd364471576c/",
+        "is_bot": false,
+        "display_name": "swapnilmindsstudio",
+        "email": "swapnilmindsstudio@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-06-04T16:46:33.978884+05:30",
+      "updated_at": "2026-06-04T16:46:33.978906+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "e8595fee-5047-44c6-aa3a-bc939d14f52e",
+      "member": {
+        "id": "58ee7bee-b838-4c87-a657-516411e0c179",
+        "first_name": "Sakshi Pathare",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "sakshipathare20",
+        "email": "sakshipathare20@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-04-23T11:50:53.930901+05:30",
+      "updated_at": "2026-04-23T11:50:53.930935+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "27563798-e9a5-44c0-bb5d-fdfbee38c205",
+      "member": {
+        "id": "30936a5a-3229-428d-b75a-a60e00da01f3",
+        "first_name": "Ojasvini Singh",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "ojasvini999",
+        "email": "ojasvini999@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-04-23T11:50:30.097331+05:30",
+      "updated_at": "2026-04-23T11:50:30.097366+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "89eb303d-ae4a-4385-8a98-1ae041641ec7",
+      "member": {
+        "id": "0cbf7fac-d909-4f61-a406-8de31252f7ef",
+        "first_name": "Vishal Mourya",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "vishalmourya9324",
+        "email": "vishalmourya9324@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-04-22T21:39:08.808288+05:30",
+      "updated_at": "2026-04-22T21:39:08.808305+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "c7a4a5d1-4f54-4750-9e0c-7482a5127b42",
+      "member": {
+        "id": "ce21ae2d-b486-4a20-bfb2-825d70c7a591",
+        "first_name": "Sourab Metha",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "sourabmetha",
+        "email": "sourabmetha@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-03-26T11:18:25.851803+05:30",
+      "updated_at": "2026-03-26T11:18:25.851829+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "8dedb331-6e29-4d98-8a87-e709a69cf1bc",
+      "member": {
+        "id": "e6a5ff8b-229d-4690-af98-733bab358118",
+        "first_name": "Hitesh",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "raneh717",
+        "email": "raneh717@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-03-25T12:06:22.444871+05:30",
+      "updated_at": "2026-03-25T12:06:22.444894+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "9c554ebe-87e2-459f-83c0-e8314df3fec6",
+      "member": {
+        "id": "6b44c027-870b-4ff3-bda0-4d051f89aa8c",
+        "first_name": "Sahil Dalvi",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "sahildalvii2003",
+        "email": "sahildalvii2003@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-03-25T12:06:14.980472+05:30",
+      "updated_at": "2026-03-25T12:06:14.980491+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "1c3c9d44-7ea7-4253-bb24-56a543e8bd46",
+      "member": {
+        "id": "a93db498-5f57-497b-a9c6-dbc825c093d2",
+        "first_name": "Apurva Sen",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "apurvauiux14",
+        "email": "apurvauiux14@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-02-08T01:56:42.814689+05:30",
+      "updated_at": "2026-04-06T16:55:01.808509+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "ed30f3cc-63ba-495a-8eb9-68226d2c4707",
+      "member": {
+        "id": "95519a46-a5fb-4b56-b87d-28b823ee16d1",
+        "first_name": "Saloni Gadkari",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "gadkarisaloni5",
+        "email": "gadkarisaloni5@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-02-07T18:47:28.856978+05:30",
+      "updated_at": "2026-04-06T16:55:16.258062+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "304efe9d-e067-4cbc-b3b5-b02ca3b64649",
+      "member": {
+        "id": "94ee0643-ba6f-4b40-aae4-00c94e0a39a5",
+        "first_name": "Monika Das",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "dasmonika1005",
+        "email": "dasmonika1005@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-02-07T18:46:32.250622+05:30",
+      "updated_at": "2026-04-06T16:55:06.811404+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "5441faa0-76df-49e4-a244-70f3af3cf619",
+      "member": {
+        "id": "5cbb3944-e6f1-4a61-94b8-c0d5da490aed",
+        "first_name": "Ajay Vijay Rathod",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "rathodajay2161",
+        "email": "rathodajay2161@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-02-07T18:30:50.573489+05:30",
+      "updated_at": "2026-04-06T16:55:45.681740+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "8b3c79af-0bf6-44f9-9937-a74bd3893b4c",
+      "member": {
+        "id": "10d4b9df-333a-4b7e-9db0-00780fa2709c",
+        "first_name": "Indranil Das",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "indranildas169",
+        "email": "indranildas169@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-01-27T13:01:46.576859+05:30",
+      "updated_at": "2026-01-27T13:01:46.576876+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": "10d4b9df-333a-4b7e-9db0-00780fa2709c",
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "c7dfe281-591d-46ff-b993-647cf08c4f12",
+      "member": {
+        "id": "8fd5e0ef-b200-41a2-be10-82128e20e295",
+        "first_name": "Aaditya",
+        "last_name": "Gunjal",
+        "avatar": "",
+        "avatar_url": "/api/assets/v2/static/5b89b827-8077-44cb-90de-d73f0a9b0267/",
+        "is_bot": false,
+        "display_name": "aaditya09750",
+        "email": "aadigunjal0975@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2026-01-27T12:15:19.505797+05:30",
+      "updated_at": "2026-06-25T13:52:33.053395+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": "8fd5e0ef-b200-41a2-be10-82128e20e295",
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "e1b1e716-d060-4295-8302-211d2287a908",
+      "member": {
+        "id": "b34f0d3e-515e-4421-8cf4-d25b0555772a",
+        "first_name": "Pragya jain",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "pragyajain4291",
+        "email": "pragyajain4291@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-12-05T16:42:46.362612+05:30",
+      "updated_at": "2025-12-05T17:28:42.296709+05:30",
+      "deleted_at": null,
+      "role": 20,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": "16d1d613-05f4-494f-a2ca-45ce1f3939bb",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "6414c38b-dae0-44f4-9f87-9a8f56b34299",
+      "member": {
+        "id": "4ffecbe8-a678-4473-9bd2-709cb1957d29",
+        "first_name": "Harshvardhan More",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": "/api/assets/v2/static/31689607-fdc8-42a7-a96a-abf943ac165e/",
+        "is_bot": false,
+        "display_name": "harshworks123",
+        "email": "harshworks123@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-11-21T17:21:46.127191+05:30",
+      "updated_at": "2025-11-21T17:21:46.127208+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "3e670f88-898c-4a3b-b80d-511ce704a5ab",
+      "member": {
+        "id": "ea962072-e6a0-4af1-93b1-7dd1dc3a7b97",
+        "first_name": "Raj Lodh",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "rajlodh911",
+        "email": "rajlodh911@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-11-20T13:04:08.029578+05:30",
+      "updated_at": "2025-11-20T13:04:08.029600+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "6cbdf5dc-ad93-4539-9ec5-31018de46438",
+      "member": {
+        "id": "6b347e14-f3a8-4480-8c65-1f8e96ee66c6",
+        "first_name": "Bhanu Pratap Yadav",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "bhanupratapy570",
+        "email": "bhanupratapy570@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-11-14T16:31:45.705619+05:30",
+      "updated_at": "2025-11-14T16:31:45.705643+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "e4451a44-2a29-4ade-b6e9-97bb76d744d1",
+      "member": {
+        "id": "16d1d613-05f4-494f-a2ca-45ce1f3939bb",
+        "first_name": "Sahil Jain",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "sahil",
+        "email": "sahil@metaminds.studio",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-29T16:18:11.742652+05:30",
+      "updated_at": "2025-10-29T16:18:11.742671+05:30",
+      "deleted_at": null,
+      "role": 20,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "04f7cc44-9b12-4b05-9927-4bab62ef4946",
+      "member": {
+        "id": "a3df780d-d819-4807-8f7d-6897adae958f",
+        "first_name": "Akshata Kulkarni",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "akshatakulkarni2004",
+        "email": "akshatakulkarni2004@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-29T15:45:22.236111+05:30",
+      "updated_at": "2026-06-25T13:52:44.719400+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "0967f5a8-810f-4847-bb82-da1eb41aae73",
+      "member": {
+        "id": "254051a6-c189-457d-9edf-8859bb1ba67c",
+        "first_name": "Yogesh Singh Rajpurohit",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "ysraj4444",
+        "email": "ysraj4444@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-28T18:17:37.753784+05:30",
+      "updated_at": "2026-06-25T13:53:17.361848+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "98f4f3a6-430e-4041-9fac-49d754b0758a",
+      "member": {
+        "id": "79e3cde7-88eb-4dde-864f-1a4087285ab6",
+        "first_name": "Omkar Ingle",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "omkaringle2000",
+        "email": "omkaringle2000@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-28T12:19:31.352892+05:30",
+      "updated_at": "2025-10-28T12:19:31.352912+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "e5940c42-4abb-4ae8-865d-df658f9e0a5a",
+      "member": {
+        "id": "581f6e6b-95e6-454b-b013-91ee9d7f10c8",
+        "first_name": "Mohit Gurnani",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "mohitgurnani354",
+        "email": "mohitgurnani354@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-27T18:26:18.217301+05:30",
+      "updated_at": "2025-10-27T18:26:18.217318+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "19c6c780-8010-4360-9e43-a6994ec76168",
+      "member": {
+        "id": "f540acbe-97a2-4b36-b758-3bf940077006",
+        "first_name": "Rhitvi",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "rhitvi",
+        "email": "desairhitvi@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-27T12:56:38.996243+05:30",
+      "updated_at": "2025-10-27T12:56:38.996260+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "eac4bd8b-aee5-4952-8b64-5fbf8a784b7b",
+      "member": {
+        "id": "6f943f84-3c6e-4a30-a804-4141b48ab92d",
+        "first_name": "Ekta Dinesh Nishad",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "Ekta",
+        "email": "nishadekta14@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:23:39.938267+05:30",
+      "updated_at": "2026-04-06T16:55:11.534314+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "d1448020-6faa-420d-9e45-8ff891015b77",
+      "member": {
+        "id": "c9a47aa7-9a20-4d6e-9881-edf05cff86ca",
+        "first_name": "Sachin Reddu",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "sachin.mojito",
+        "email": "sachin.mojito@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:21:30.005662+05:30",
+      "updated_at": "2026-04-06T16:55:51.171617+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "23655b15-4de7-4005-b94f-46981db1b95a",
+      "member": {
+        "id": "2605196b-d458-4667-b664-93fcc420ccee",
+        "first_name": "Abhay omprakash Jaiswal",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "abhayaj07",
+        "email": "abhayaj07@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:21:23.428051+05:30",
+      "updated_at": "2025-10-24T14:45:03.886905+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "7aa1b9fb-a2f4-48c5-b3e8-ea88d2aaf977",
+      "member": {
+        "id": "28929be8-a189-4f44-93f3-d353f26f188a",
+        "first_name": "Abhishek Mane",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "iamabhishekmane571",
+        "email": "iamabhishekmane571@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:20:56.542843+05:30",
+      "updated_at": "2026-04-06T16:55:23.178872+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "cf435824-d8e6-4954-8475-9d61524843a2",
+      "member": {
+        "id": "f916dcd2-dbe2-44fe-9c72-2f715be2a45e",
+        "first_name": "Sahil Avhad",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "iyerbones",
+        "email": "iyerbones@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:20:13.488056+05:30",
+      "updated_at": "2026-04-13T17:02:34.312900+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "bac8a4af-3800-4ef6-9bf9-42dfabd69ebc",
+      "member": {
+        "id": "b9c780d0-6898-433b-a31f-ad81f848513b",
+        "first_name": "Kalpesh",
+        "last_name": "Pathare",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "kalpesh.pathare.011",
+        "email": "kalpesh.pathare.011@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:18:13.738685+05:30",
+      "updated_at": "2026-04-13T17:02:39.122363+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "75c8a72b-aa8f-4f98-9c89-508dc137a7bd",
+      "member": {
+        "id": "3337d12a-cf6c-4697-be79-611e00ff2f3f",
+        "first_name": "Pooja",
+        "last_name": "Mestry",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "mestrypooja",
+        "email": "mestrypooja85@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:16:47.240193+05:30",
+      "updated_at": "2026-04-06T16:55:30.770444+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "9137d179-b21a-426f-8381-6abe8954bbae",
+      "member": {
+        "id": "26f5b2ca-04bd-4e57-85d9-0425a68f181f",
+        "first_name": "Siddhi Salian",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "siddhisalian14",
+        "email": "siddhisalian14@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:16:02.161986+05:30",
+      "updated_at": "2026-06-25T13:53:11.609223+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "8c11a55c-e9dd-41c6-b76e-7c3a3e77d3ce",
+      "member": {
+        "id": "7871e1d8-111b-4c30-b86c-cfa5b8380c93",
+        "first_name": "Pritish",
+        "last_name": "Bordoloi",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "pritish",
+        "email": "bordoloipritish97@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:11:34.960658+05:30",
+      "updated_at": "2025-10-08T17:11:34.960668+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "ef4404fb-0465-438a-9306-e34caaf685c5",
+      "member": {
+        "id": "76781b41-f228-4765-a70a-c17472ccd804",
+        "first_name": "radhika panikker",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "radhikapanikker",
+        "email": "radhikapanikker@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:11:31.322234+05:30",
+      "updated_at": "2026-04-06T16:55:39.371549+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "25d14e38-b330-4510-8aab-5f363baf5d4c",
+      "member": {
+        "id": "ab4990b8-80a1-4a5a-bab2-5734077f280b",
+        "first_name": "Dinky Rohra",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "dinkyrohra06",
+        "email": "dinkyrohra06@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:09:51.383739+05:30",
+      "updated_at": "2025-10-08T17:09:51.383757+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "33037f4f-c6fd-4108-88f5-ee98f30543bb",
+      "member": {
+        "id": "bc271320-5fd2-4d60-b41d-e540aef459b8",
+        "first_name": "Ajay SIngh",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "ajaywork0211",
+        "email": "ajaywork0211@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:09:10.826418+05:30",
+      "updated_at": "2026-06-25T13:52:38.818906+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": false,
+      "created_by": null,
+      "updated_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "80e579a9-958c-4269-8cfe-498f22c0b748",
+      "member": {
+        "id": "234bf41d-a00f-415b-b62e-2953037b5817",
+        "first_name": "Aadarsh Mishra",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "aadarshmishra422",
+        "email": "aadarshmishra422@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:05:16.412103+05:30",
+      "updated_at": "2025-10-08T17:05:16.412117+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "91e8acc3-9336-48e8-97cd-4dd9880b7780",
+      "member": {
+        "id": "daca009c-2657-4cee-ae6b-c33b9f2aa59e",
+        "first_name": "Yuvraj Sanjay Salte",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "yuvrajs22it",
+        "email": "yuvrajs22it@student.mes.ac.in",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:03:10.993776+05:30",
+      "updated_at": "2025-10-08T17:03:10.993789+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "ed02dfe0-aaff-46d3-bce5-40584e8134ba",
+      "member": {
+        "id": "77551d00-7ea1-4e0f-814d-27cbab3940cc",
+        "first_name": "Pratap Panigrahi",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "pratappanigrahy93",
+        "email": "pratappanigrahy93@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:03:03.958775+05:30",
+      "updated_at": "2025-10-08T17:03:03.958797+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "15f7c81a-7930-48c3-b625-bd3a9efab552",
+      "member": {
+        "id": "c1d4eaf9-7c41-46d2-99c2-2d2279de87bc",
+        "first_name": "Harshada",
+        "last_name": "Patil",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "Harshada",
+        "email": "harshupatil151103@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:02:57.854829+05:30",
+      "updated_at": "2025-10-08T17:02:57.854845+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "e28481a3-e7ae-46d1-b617-19695e30d51c",
+      "member": {
+        "id": "d1f117f0-ebed-4f84-9af8-91539ed1fb01",
+        "first_name": "Omprakash Ranjan",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "opranjan91700",
+        "email": "opranjan91700@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T17:02:32.917546+05:30",
+      "updated_at": "2025-10-08T17:02:32.917565+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "347aaf0c-8737-46f8-bda2-5aeddc235715",
+      "member": {
+        "id": "68c0bd76-6070-42ad-b1c3-6ba36c0c0dbb",
+        "first_name": "Sanket",
+        "last_name": "Ambre",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "ambresanket29",
+        "email": "ambresanket29@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T16:09:46.208646+05:30",
+      "updated_at": "2025-10-08T16:09:46.208668+05:30",
+      "deleted_at": null,
+      "role": 15,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": null,
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "cda4834a-9b22-4eaa-927e-41a9e729709f",
+      "member": {
+        "id": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+        "first_name": "Mayur Bhanushali",
+        "last_name": "",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "mayur",
+        "email": "mayur@metaminds.studio",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-08T09:01:26.307089+05:30",
+      "updated_at": "2025-10-08T09:01:26.307110+05:30",
+      "deleted_at": null,
+      "role": 20,
+      "company_role": null,
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": "9dcdb307-38d3-44c1-8005-aa22a3eb7419",
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    },
+    {
+      "id": "41d19afa-30af-48e5-9682-af2acac6c096",
+      "member": {
+        "id": "b2ab8ee1-1412-46af-aac9-6abccc5197bc",
+        "first_name": "Tanmay",
+        "last_name": "Mundra",
+        "avatar": "",
+        "avatar_url": null,
+        "is_bot": false,
+        "display_name": "Tanmay Mundra",
+        "email": "tanmaymundra11@gmail.com",
+        "last_login_medium": "email"
+      },
+      "created_at": "2025-10-07T23:47:36.124631+05:30",
+      "updated_at": "2025-10-07T23:47:36.124645+05:30",
+      "deleted_at": null,
+      "role": 20,
+      "company_role": "",
+      "view_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "default_props": {
+        "filters": {
+          "state": null,
+          "labels": null,
+          "priority": null,
+          "assignees": null,
+          "created_by": null,
+          "start_date": null,
+          "subscriber": null,
+          "state_group": null,
+          "target_date": null
+        },
+        "display_filters": {
+          "type": null,
+          "layout": "list",
+          "group_by": null,
+          "order_by": "-created_at",
+          "sub_issue": true,
+          "show_empty_groups": true,
+          "calendar_date_range": ""
+        },
+        "display_properties": {
+          "key": true,
+          "link": true,
+          "state": true,
+          "labels": true,
+          "assignee": true,
+          "due_date": true,
+          "estimate": true,
+          "priority": true,
+          "created_on": true,
+          "start_date": true,
+          "updated_on": true,
+          "sub_issue_count": true,
+          "attachment_count": true
+        }
+      },
+      "issue_props": {
+        "created": true,
+        "assigned": true,
+        "all_issues": true,
+        "subscribed": true
+      },
+      "is_active": true,
+      "created_by": "b2ab8ee1-1412-46af-aac9-6abccc5197bc",
+      "updated_by": null,
+      "workspace": "95b3f49b-3768-4213-9e66-f182b60e0f58"
+    }
+  ],
+  "invitations": [
+    {
+      "id": "a71286b5-2fc7-4945-aac4-a75606900c78",
+      "workspace": {
+        "name": "Metaminds",
+        "slug": "metaminds",
+        "id": "95b3f49b-3768-4213-9e66-f182b60e0f58",
+        "logo_url": null
+      },
+      "invite_link": "/workspace-invitations/?invitation_id=a71286b5-2fc7-4945-aac4-a75606900c78&email=tanmaymundra01@gmail.com&slug=metaminds",
+      "created_at": "2025-10-08T10:16:45.478786+05ㅤ0",
+      "updated_at": "2025-10-08T10:16:45.807038+05ㅤ0",
+      "deleted_at": null,
+      "email": "tanmaymundra01@gmail.com",
+      "accepted": false,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6eyJlbWFpbCI6InRhbm1heW11bmRyYTAxQGdtYWlsLmNvbSIsInJvbGUiOjE1fSwidGltZXN0YW1wIjoxNzU5ODk4ODA1LjQ3MjQ3MX0.3niPBi2HHcQBR9OuN0-_ToF_5LTlLauJ9LUsAvjJYi0",
+      "message": "\n\n  \n    \n    \n    \n    \n    Tanmay has invited you to join them in Metaminds on Plane.\n    #outlook a { padding:0; } .ExternalClass { width:100%; } .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; } table td { border-collapse: collapse; mso-line-height-rule: exactly; } .editable.image { font-size: 0 !important; line-height: 0 !important; } .nl2go_preheader { display: none !important; mso-hide:all !important; mso-line-height-rule: exactly; visibility: hidden !important; line-height: 0px !important; font-size: 0px !important; } body { width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; } img { outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; } a img { border:none; } table { border-collapseㅤollapse; mso-table-lspace:0pt; mso-table-rspace:0pt; } th { font-weight: normal; text-align: left; } *[class=\"gmail-fix\"] { display: none !important; } \n     @media (max-width: 600px) { .gmx-killpill { content: ' \\03D1';} } \n    @media (max-width: 600px) { .gmx-killpill { content: ' \\03D1';} .r0-o { border-style: solid !important; margin: 0 auto 0 auto !important; width: 320px !important } .r1-i { background-color: #ffffff !important } .r2-c { box-sizing: border-box !important; text-align: center !important; valign: top !important; width: 100% !important } .r3-o { border-style: solid !important; margin: 0 auto 0 auto !important; width: 100% !important } .r4-i { padding-bottom: 20px !important; padding-left: 15px !important; padding-right: 15px !important; padding-top: 20px !important } .r5-c { box-sizing: border-box !important; display: block !important; valign: top !important; width: 100% !important } .r6-o { border-style: solid !important; width: 100% !important } .r7-i { padding-left: 0px !important; padding-right: 0px !important } .r8-i { padding-bottom: 20px !important; padding-left: 10px !important; padding-right: 10px !important; padding-top: 20px !important } .r9-c { box-sizing: border-box !important; text-align: left !important; valign: top !important; width: 100% !important } .r10-o { border-style: solid !important; margin: 0 auto 0 0 !important; width: 100% !important } .r11-i { padding-top: 15px !important; text-align: center !important } .r12-c { box-sizing: border-box !important; padding-bottom: 15px !important; padding-top: 15px !important; text-align: left !important; valign: top !important; width: 100% !important } .r13-c { box-sizing: border-box !important; padding: 0 !important; text-align: center !important; valign: top !important; width: 100% !important } .r14-o { border-style: solid !important; margin: 0 auto 0 auto !important; margin-bottom: 15px !important; margin-top: 15px !important; width: 100% !important } .r15-i { padding: 0 !important; text-align: center !important } .r16-r { background-color: #006399 !important; border-radius: 4px !important; border-width: 0px !important; box-sizing: border-box; height: initial !important; padding: 0 !important; padding-bottom: 12px !important; padding-left: 5px !important; padding-right: 5px !important; padding-top: 12px !important; text-align: center !important; width: 100% !important } .r17-c { box-sizing: border-box !important; text-align: center !important; width: 100% !important } .r18-c { box-sizing: border-box !important; width: 100% !important } .r19-i { font-size: 0px !important; padding-bottom: 15px !important; padding-left: 65px !important; padding-right: 65px !important; padding-top: 15px !important } .r20-c { box-sizing: border-box !important; width: 32px !important } .r21-o { border-style: solid !important; margin-right: 8px !important; width: 32px !important } .r22-i { padding-bottom: 5px !important; padding-top: 5px !important } .r23-o { border-style: solid !important; margin-right: 0px !important; width: 32px !important } body { -webkit-text-size-adjust: none } .nl2go-responsive-hide { display: none } .nl2go-body-table { min-width: unset !important } .mobshow { height: auto !important; overflow: visible !important; max-height: unset !important; visibility: visible !important; border: none !important } .resp-table { display: inline-table !important } .magic-resp { display: table-cell !important } } \n    p, h1, h2, h3, h4, ol, ul, li { margin: 0; } a, a:link { color: #006399; text-decoration: underline } .nl2go-default-textstyle { color: #3b3f44; font-family: georgia, serif; font-size: 18px; line-height: 1.5; word-break: break-word } .default-button { color: #ffffff; font-family: georgia, serif; font-size: 16px; font-style: normal; font-weight: bold; line-height: 1.15; text-decoration: none; word-break: break-word } .default-heading1 { color: #1F2D3D; font-family: arial,helvetica,sans-serif; font-size: 36px; word-break: break-word } .default-heading2 { color: #1F2D3D; font-family: arial,helvetica,sans-serif; font-size: 32px; word-break: break-word } .default-heading3 { color: #1F2D3D; font-family: arial,helvetica,sans-serif; font-size: 24px; word-break: break-word } .default-heading4 { color: #1F2D3D; font-family: arial,helvetica,sans-serif; font-size: 18px; word-break: break-word } a[x-apple-data-detectors] { color: inherit !important; text-decoration: inherit !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; } .no-show-for-you { border: none; display: none; float: none; font-size: 0; height: 0; line-height: 0; max-height: 0; mso-hide: all; overflow: hidden; table-layout: fixed; visibility: hidden; width: 0; } \n    \n    a:link{color: #006399; text-decoration: underline;}\n  \n  \n    \n      \n        \n          \n            \n              \n                \n                  \n                    \n                      \n                        \n                          \n                            \n                              \n                                \n                                  \n                                    \n                                      \n                                        \n                                          \n                                             \n                                          \n                                        \n                                      \n                                    \n                                  \n                                \n                              \n                            \n                          \n                        \n                      \n                    \n                  \n                \n                \n                  \n                    \n                      \n                        \n                          \n                            \n                              \n                                \n                                  \n                                    \n                                      \n                                        \n                                          \n                                            \n                                              \n                                                You are a celebrated colleague!\n                                              \n                                            \n                                          \n                                        \n                                      \n                                    \n                                    \n                                      \n                                        \n                                          Tanmay has invited you to join them in Metaminds, a workspace for projects and progress, on Plane. Some of our users have told us it's a privilege, but we will let you be the judge of that.\n                                        \n                                      \n                                    \n                                    \n                                      \n                                        \n                                          \n                                              Join them on Plane \n                                          \n                                        \n                                      \n                                    \n                                  \n                                \n                              \n                            \n                          \n                        \n                      \n                    \n                  \n                \n                \n                  \n                    \n                      \n                        \n                          \n                            \n                              \n                                \n                                  \n                                    \n                                      \n                                        \n                                          \n                                            \n                                              \n                                                \n                                                  \n                                                    \n                                                      \n                                                        \n                                                          \n                                                            \n                                                              \n                                                                \n                                                                  \n                                                                       \n                                                                    \u0412\u00ad \n                                                                  \n                                                                \n                                                              \n                                                              \n                                                                \n                                                                  \n                                                                       \n                                                                    \u0412\u00ad \n                                                                  \n                                                                \n                                                              \n                                                              \n                                                                \n                                                                  \n                                                                       \n                                                                    \u0412\u00ad \n                                                                  \n                                                                \n                                                              \n                                                              \n                                                                \n                                                                  \n                                                                       \n                                                                  \n                                                                \n                                                              \n                                                            \n                                                          \n                                                        \n                                                      \n                                                    \n                                                  \n                                                \n                                              \n                                            \n                                          \n                                        \n                                      \n                                    \n                                  \n                                \n                              \n                            \n                          \n                        \n                      \n                    \n                  \n                \n                \n                  \n                    \n                      \n                        \n                          \n                            \n                              \n                                \n                                  \n                                    \n                                      \n                                        \n                                          This email was sent to tanmaymundra01@gmail.com. Please delete if you are not the intended recipient.\n                                        \n                                      \n                                    \n                                  \n                                \n                              \n                            \n                          \n                        \n                      \n                    \n                  \n                \n              \n            \n          \n        \n      \n    \n  \n",
+      "responded_at": null,
+      "role": 15,
+      "created_by": null,
+      "updated_by": null
+    }
+  ]
+    }
